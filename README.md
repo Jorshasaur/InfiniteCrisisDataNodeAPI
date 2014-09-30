@@ -14,7 +14,9 @@ Using the library requires only an API key:
 ```javascript
 InfiniteCrisisAPI = require("infinite-crisis");
 api = new InfiniteCrisisAPI("Your API Key Here");
-champions = api.getChampionsV1({"shard":1});
+api.getChampionsV1({"shard":1}, function(err, response){
+  console.log(response);
+});
 ```
 
 ###Obtaining an API Key
