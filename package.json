@@ -1,6 +1,6 @@
 {
   "name": "infinite-crisis",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module to easily connect and call methods to the Infinite Crisis Game Data API.",
   "main": "infinite-crisis.js",
   "scripts": {
