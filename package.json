@@ -1,0 +1,19 @@
+{
+  "name": "infinite-crisis",
+  "version": "0.0.0",
+  "description": "A module to easily connect and call methods to the Infinite Crisis Game Data API.",
+  "main": "infinite-crisis.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Josh Barber",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.44.0",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}

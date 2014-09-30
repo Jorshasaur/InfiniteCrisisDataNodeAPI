@@ -1,0 +1,30 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/achievements/1073744648?shard=1&lang=en"
+    }
+  },
+  "shardId": 1,
+  "lang": "en",
+  "gameId": "1073744648",
+  "key": "CompleteFirstTutorialMission",
+  "name": "Complete Tutorial 1",
+  "description": "Play through Tutorial 1",
+  "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CC8.png",
+  "category": {
+    "description": "Training",
+    "key": "training",
+    "name": "Training"
+  },
+  "visibility": 3,
+  "repeatType": 1,
+  "orderIndex": 1,
+  "objectiveDetails": [
+    {
+      "orderIndex": 1,
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+      "targetValue": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/stolenpowers/1207961875?shard=1&lang=en"
+    }
+  },
+  "lang": "en",
+  "name": "Aquaman's Super Strength",
+  "gameId": "1207961875",
+  "shard": 1,
+  "images": {
+    "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002084.jpg",
+    "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002087.jpg",
+    "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002085.jpg",
+    "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002086.jpg"
+  },
+  "description": "Aquaman's Super Strength grants your Champion Move Speed after throwing an Environmental Object.<br><br><b>Large Object:</b> Throws the object, dealing Attack Damage and Slowing enemies in an area, and gain Move Speed for a few seconds.<br><b>Small Object:</b> Throws the object in a line, dealing Attack Damage to the first enemy it hits, Knocking them up, and your Champion gains Move Speed for a few seconds."
+}

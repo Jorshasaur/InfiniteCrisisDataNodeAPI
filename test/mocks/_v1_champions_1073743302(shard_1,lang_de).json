@@ -1,0 +1,82 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/champions/1073743302?shard=21&lang=de"
+    }
+  },
+  "lang": "de",
+  "gameId": "1073743302",
+  "shard": 21,
+  "description": "Arthur Curry, der Sohn eines Leuchtturmwärters und der Königin von Atlantis, erfreute sich an der Seite seines Vaters zunächst eines friedlichen Lebens an Land. All das änderte sich, als die Medien von der Existenz eines „Aquaman aus Atlantis“ erfuhren. Durch ihre Berichte wurde auch der besessene Schatzsucher Black Manta auf ihn aufmerksam. Auf der Suche nach den Kostbarkeiten aus Atlantis tötete dieser Arthurs Vater. Daraufhin kehrte Arthur der Welt auf der Oberfläche den Rücken zu und nahm als rechtmäßiger König von Atlantis auf seinem Thron Platz. Aber nach einigen Jahren wurde Arthur der ständigen Intrigen bei Hofe müde und kehrte mit seiner großen Liebe, Mera, zur Oberfläche zurück. Er wacht jetzt über die Küsten der Ozeane und beschützt beide Welten, von denen jedoch keine ihm eine echte Heimat ist.<br><br>Aquaman ist sehr stark und im Kampf extrem widerstandsfähig. Er führt den Dreizack des Königs mit großem Geschick, kann unter Wasser atmen und mit den meisten Meereslebewesen telepathisch kommunizieren.",
+  "characterName": "Aquaman",
+  "playStyle": "Aquaman zermürbt seine Gegner mit dem <font color='#00CC00'>Dreizack des Königs</font> aus der Ferne und stürzt sich zu einem günstigen Zeitpunkt in den Nahkampf, um den Kampf für sich zu entscheiden. <font color='#00CC00'>Macht von Atlantis</font> hat, je nachdem, welche Fertigkeit zuletzt verwendet wurde, unterschiedliche Wirkungen und kann mit den verschiedensten Fertigkeiten kombiniert werden.",
+  "alignment": "Held",
+  "multiverse": "Prime",
+  "subtitle": "Herrscher von Atlantis",
+  "attackBar": 80,
+  "healthBar": 40,
+  "powerBar": 0,
+  "difficultyBar": 100,
+  "images": {
+    "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DF8.jpg",
+    "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DF9.jpg",
+    "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFC.jpg",
+    "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFA.jpg",
+    "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFB.jpg"
+  },
+  "roles": [
+    {
+      "roleName": "Angriffsschaden-Champion",
+      "shortDesc": "Dieser Champion wird mit zunehmendem Angriffsschaden stärker und effektiver.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+    },
+    {
+      "roleName": "Nahkampf",
+      "shortDesc": "Mit dem Basis-Angriff dieses Champions greifst du aus der Nähe an.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+    },
+    {
+      "roleName": "Schläger",
+      "shortDesc": "Ein Schläger stürzt sich ohne Zögern mitten ins Kampfgeschehen, um sein Ziel mit aus nächster Nähe zu vernichten.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6A.png"
+    }
+  ],
+  "skills": [
+    {
+      "skillName": "Dreizack des Königs",
+      "shortDesc": "Aquaman wirft seinen Dreizack und fügt dem ersten getroffenen Gegner, abhängig von der Weite des Wurfes, Angriffsschaden zu. Das Ziel wird „enttarnt“ und markiert.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001979.png",
+      "slotName": "Passive",
+      "slotId": 1
+    },
+    {
+      "skillName": "Tiefschlag",
+      "shortDesc": "Aquaman bringt seine Gegner mit seinem Dreizack zu Fall. Der Gegner erleidet Angriffsschaden und wird für kurze Zeit „umgeworfen“.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001975.png",
+      "slotName": "Passive",
+      "slotId": 2
+    },
+    {
+      "skillName": "Sog",
+      "shortDesc": "Aquaman schnellt vor und fügt dabei allen getroffenen Gegnern Angriffsschaden zu. Wenn mindestens ein Gegner getroffen wird, kann Aquaman innerhalb der nächsten Sekunden „Sog“ erneut einsetzen.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001978.png",
+      "slotName": "Passive",
+      "slotId": 3
+    },
+    {
+      "skillName": "Macht von Atlantis",
+      "shortDesc": "„Macht von Atlantis“ ist eine einzigartige Folgefertigkeit, die wenige Sekunden lang eingesetzt werden kann, nachdem durch eine andere Fertigkeit Schaden verursacht wurde. <br><br><b>Dreizack des Königs:<fb><br>Aquaman prescht zu dem markierten Ziel vor und teilt dabei Angriffsschaden aus. <br><br><b>Tiefschlag:</b><br>Verursacht Angriffsschaden plus Bonus-Angriffsschaden, basierend auf einen prozentualen Anteil der Max. LP des Gegners.<br><br><b>Sog:</b><br>Aquaman prescht zum Ziel vor. Der erste getroffene gegnerische Champion erleidet Angriffsschaden und wird hinter Aquaman geschleudert.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001977.png",
+      "slotName": "Passive",
+      "slotId": 4
+    },
+    {
+      "skillName": "Gezeitenwelle",
+      "shortDesc": "Nach jeder Anwendung einer Fertigkeit erhält Aquaman für einige Sekunden eine „Gezeitenwelle“. Sein nächster Basis-Angriff verbraucht den Effekt, um dem Ziel Angriffsschaden zuzufügen, und gibt ihm selbst LP zurück.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001976.png",
+      "slotName": "Passive",
+      "slotId": 5
+    }
+  ]
+}

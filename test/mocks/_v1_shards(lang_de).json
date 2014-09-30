@@ -1,0 +1,39 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/shards?lang=de"
+    }
+  },
+  "_embedded": {
+    "shards": [
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/shards/1?lang=de"
+          }
+        },
+        "shardId": 1,
+        "shardName": "SMALLVILLE",
+        "online": true,
+        "publicShard": true,
+        "alertMessage": "Seid gegrüßt, Protektoren! Am Mittwoch, den 30. Juli, werden die europäischen und russischen Game-Server von 14:00 bis 21:00 Uhr MESZ für Wartungsarbeiten nicht erreichbar sein. Auch der Login unserer Webseite und das Programm zur Spieleranwerbung sind davon betroffen.",
+        "alertEnabled": true
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/shards/21?lang=de"
+          }
+        },
+        "shardId": 21,
+        "shardName": "GOTHAM",
+        "online": true,
+        "publicShard": true,
+        "alertMessage": "Seid gegrüßt, Protektoren! Am Mittwoch, den 30. Juli, werden die europäischen und russischen Game-Server von 14:00 bis 21:00 Uhr MESZ für Wartungsarbeiten nicht erreichbar sein. Auch der Login unserer Webseite und das Programm zur Spieleranwerbung sind davon betroffen.",
+        "alertEnabled": true
+      }
+    ]
+  },
+  "count": 2
+}

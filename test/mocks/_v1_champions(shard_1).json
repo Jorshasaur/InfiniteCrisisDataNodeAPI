@@ -1,0 +1,2607 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/champions?shard=21&lang=en"
+    }
+  },
+  "_embedded": {
+    "champions": [
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743302?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743302",
+        "shard": 21,
+        "description": "The son of a lighthouse keeper, and the Atlantean Queen, Arthur Curry initially enjoyed a quiet, peaceful life with his father on the surface. This all changed when the media learned of the existence of an 'Aquaman' from Atlantis. Their reports drew the attention of Black Manta, a treasure hunter whose obsession with Atlantean treasures led to the death of Arthur's father. Escaping the surface world, Arthur took his rightful place as King of Atlantis. After a few years, Arthur tired of the court's intrigues and returned to the surface with his love, Mera. He now guards the ocean shores, protecting both worlds but feeling at home in neither.<br><br>Aquaman is extremely strong and is quite resilient in combat. He wields the Trident of the Atlantean King to great effect, he can breathe underwater, and can communicate telepathically with most forms of aquatic life.",
+        "characterName": "Aquaman",
+        "playStyle": "Aquaman harasses his foes with the Trident of the King from range, and then closes to fight when he is ready. Might of Atlantis changes based on his last used skill, allowing many different skill combinations.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Lord of Atlantis",
+        "attackBar": 80,
+        "healthBar": 40,
+        "powerBar": 0,
+        "difficultyBar": 100,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DF8.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DF9.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFC.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFA.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFB.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Bruiser",
+            "shortDesc": "A Bruiser gets into the thick of fights, trying to destroy their target with close ranged attacks and powers.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6A.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Trident of the King",
+            "shortDesc": "Aquaman throws out his trident, dealing Attack Damage (increasing with travel distance) to the first enemy it hits. The target is also Revealed and marked.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001979.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Stagger",
+            "shortDesc": "Aquaman swipes his opponent's feet. He deals Attack Damage and Knocks Down the target for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001975.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Undertow",
+            "shortDesc": "Aquaman rushes forward, dealing Attack Damage to all enemies. If at least one enemy is hit, Aquaman may use Undertow a second time within a short window.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001978.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Might of Atlantis",
+            "shortDesc": "Might of Atlantis becomes a unique follow-up skill for a few seconds when Aquaman deals damage with another skill.<br><br><b>Trident of the King:</b><br>Dash to the marked target and deal  Attack Damage.<br><br><b>Stagger:</b><br>Deal Attack Damage, and a percent of the target's Max Health as additional Attack Damage.<br><br><b>Undertow:</b><br>Rush in target direction. Deal Attack Damage to the first Champion hit, and throw them behind Aquaman.<br>",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001977.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Rising Tide",
+            "shortDesc": "When Aquaman uses a skill, he gains Rising Tide for a few seconds. His next Basic Attack consumes Rising Tide to deal Attack Damage to his target, and restore health to himself.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001976.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742907?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742907",
+        "shard": 21,
+        "description": "Sir Harold Jordan of Earth is one of the most distinguished members of the Order of the Emerald Lantern. During Hal's childhood the Shadow League plunged his world into darkness, summoning fiendish creatures of the Black. These creatures slew Hal's family, and if not for the intervention of the Emerald Knight Alan Scott, would have slain Hal as well. After the Shadow League was defeated, Sir Scott took the orphaned Hal as his squire. Hal learned well under Sir Scott's tutelage and was inducted into the Order. Although Sir Jordan is now a well respected member of the Order, his mentor fears his student's hatred of the Black may someday lead to disaster.<br><br>Sir Jordan is a brave and noble Knight, who will fearlessly - although some might say recklessly - wade into battle. He strongly believes that the Order is beyond reproach and will someday destroy the Black, forever.<br><br><b>Notes on the Order of the Emerald Lantern:</b><br>To combat the Black, which seeks to consume all life in the universe, the Guardians of the Universe - a group of powerful and timeless wizards and sorcerers - formed the Order of the Emerald Lantern. Those inducted into the Order are granted the title of 'Knight.' These Knights are called from worlds across the universe and granted great power through mystical Lantern-shaped artifacts. The key to unlocking this power is the ring all members of the order are given, which has inscribed upon it the Oath of the Emerald Knights.",
+        "characterName": "Arcane Green Lantern",
+        "playStyle": "Arcane Green Lantern protects his allies by disrupting the enemy team with his constructs, healing his friends, and granting armor to nearby allies.",
+        "alignment": "Hero",
+        "multiverse": "Arcane",
+        "subtitle": "Emerald Knight",
+        "attackBar": 30,
+        "healthBar": 90,
+        "powerBar": 30,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_green_lantern/0x13001F21.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_green_lantern/0x13001F22.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_green_lantern/0x13001F25.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_green_lantern/0x13001F23.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_green_lantern/0x13001F24.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Enforcer",
+            "shortDesc": "An Enforcer is the first into a battle and tries to soak up as much damage for their team possible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6B.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Construct Champion",
+            "shortDesc": "Arcane Green Lantern constructs a knight that marches forward, dealing Power Damage to all targets and Knocking Down the first enemy Champion hit.<br><br>Activating the skill a second time will blink Arcane Green Lantern to the knight's location, dispelling it.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_green_lantern/0x13001504.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Shackles",
+            "shortDesc": "Enemy Champions near the lantern lose Move Speed while they remain within range. If they are still within range when the effect expires, they will be Rooted (unable to move or use movement abilities) for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_green_lantern/0x13001503.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Emerald Lantern",
+            "shortDesc": "Arcane Green Lantern throws his lantern dealing Power Damage in an area. The lantern remains there for several seconds granting vision.<br><br>Touching the lantern will retrieve it, and reduce Emerald Lantern's cooldown.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_green_lantern/0x130014FE.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Deny the Black",
+            "shortDesc": "Arcane Green Lantern channels for a short time and then blinks to the targeted ally. As soon as he begins channeling the ally receives a Shield that blocks damage, and the fog of war is Revealed in a large area around them. Enemies within this area receive the Emerald Light effect.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_green_lantern/0x13001502.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Emerald Light",
+            "shortDesc": "Arcane Green Lantern's lantern grants nearby allies Attack Armor.<br><br><b>Trigger</b>: Damaging an enemy with a Basic Attack applies the Emerald Light for a short duration. Allied champions that use Basic Attacks against the marked target regain Health over time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_green_lantern/0x13001505.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073744563?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073744563",
+        "shard": 21,
+        "description": "On the day Kara Zor-El was to be inducted into the ranks of Heralds of Rao, her life was shattered. A traitor revealed the location of the Shrouded Realm of Krypton to the Black, and servants of that evil realm poured into Krypton. The Hidden Lords of Krypton and the Kryptonians fought back bravely, but the forces of the Black were limitless. When all hope seemed lost, Alura, Kara's mother and leader of the Heralds, commanded her Flamebird mount to snatch Kara and take her away. Unable to escape the beast's talons, she watched helplessly as her mother was struck down. As the servants of the Black closed in on her, the beast teleported to Earth, a planet in the lower realms. Her home forever lost, she swore that the last Herald of Rao would have revenge on the Black, no matter the cost.<br><br>Kara possesses the remarkable resilience, stamina and strength that were the hallmark of all Kryptonians. Due to those traits, the people of Earth have taken to calling her, 'the Supergirl.' In addition, due to being of the House of El, she manifests the 'blessings of Rao,' abilities to influence and direct light and flame.",
+        "characterName": "Arcane Supergirl",
+        "playStyle": "Arcane Supergirl destroys her enemies from afar with her high damage fire skills, which grow more potent when used in deliberate sequence.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Herald of Rao",
+        "attackBar": 0,
+        "healthBar": 40,
+        "powerBar": 100,
+        "difficultyBar": 50,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_supergirl/0x13002A65.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_supergirl/0x13002A69.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_supergirl/0x13002A68.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_supergirl/0x13002A67.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/arcane_supergirl/0x13002A66.png"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Blaster",
+            "shortDesc": "A Blaster has strong Powers, often unleashing bursts of punishment on enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6C.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Breath of Rao",
+            "shortDesc": "Arcane Supergirl places a fireball that increases in range and speed over time. It then releases, dealing Power Damage to all enemies hit. Use the skill again to fire early.<br><br>If the breath passes through a Firewall, then its damage is increased.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_supergirl/0x13002A9E.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Firewall",
+            "shortDesc": "Arcane Supergirl creates a wall of fire at the target location. Enemies within the wall take Power Damage over time and lose Move Speed.<br><br>If Pyrolyze or Breath of Rao pass through the Firewall, Firewall's cooldown is reduced.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_supergirl/0x13002A6C.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Pyrolyze",
+            "shortDesc": "Arcane Supergirl launches a fireball, Stunning the first enemy hit for a very short time and dealing Power Damage.<br><br>If the missile passes through Firewall, then it will apply a longer Stun.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_supergirl/0x13002A6D.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Rao's Wrath",
+            "shortDesc": "Arcane Supergirl summons a firebird that smashes into the ground after a brief delay, dealing Power Damage in an area. This skill can be used up to 3 times within a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_supergirl/0x13002A6E.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Daughter of Rao",
+            "shortDesc": "When Arcane Supergirl uses a skill, her next Basic Attack will set her target on fire, dealing additional Power Damage over time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/arcane_supergirl/0x13002A6F.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742973?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742973",
+        "shard": 21,
+        "description": "Barely surviving the nuclear firestorm, Hal Jordan was nearly killed while trying save others. While holding aloft tons of rubble that had pinned survivors, his ring's construct suddenly shattered and he was crushed by the falling debris. Hal awoke days later in an emergency clinic to a shocking discovery: his right arm had been too badly crushed, and had been amputated before it could become gangrenous. In addition, his now powerless ring was crushed into his chest and could not be removed without risk to his heart. This left Hal a broken man.<br><br>Hope returned when a mysterious figure visited Hal in the clinic. he claimed that he had discovered a radioactive isotope born of the nuclear war. It held the power to repair and repower Hal's ring, but not without consequences. Hal agreed without a second thought. With the isotope in place, his ring's powers have returned, although his constructs lack the definition they once had. Atomic Green Lantern only hopes now that he can help his world rebuild before the radiation kills him.",
+        "characterName": "Atomic Green Lantern",
+        "playStyle": "Atomic Green Lantern uses his construct arm to pull enemies in close, then deal power damage in an area around him while protecting himself with his will.  He spreads Radiation Sickness to further damage enemies and slow them down.",
+        "alignment": "Hero",
+        "multiverse": "Atomic",
+        "subtitle": "The Light that Burns",
+        "attackBar": 20,
+        "healthBar": 40,
+        "powerBar": 60,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_green_lantern/0x13001F1C.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_green_lantern/0x13001F1D.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_green_lantern/0x13001F20.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_green_lantern/0x13001F1E.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_green_lantern/0x13001F1F.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Enforcer",
+            "shortDesc": "An Enforcer is the first into a battle and tries to soak up as much damage for their team possible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6B.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Grab",
+            "shortDesc": "Atomic Green Lantern shoots his construct hand out to grab the first enemy hit. They are dealt Power Damage, pulled back to him, and Stunned for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_green_lantern/0x1300165C.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Scorched Earth",
+            "shortDesc": "Atomic Green Lantern deals Power Damage to nearby enemies. This leaves a crater that explodes after a moment, dealing Power Damage again to all enemies in the area.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_green_lantern/0x13001662.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Shards of Will",
+            "shortDesc": "Atomic Green Lantern gains a Shield that blocks damage. Nearby enemies with Radiation Sickness have an additional stack added, and the Shield is increased in strength for each enemy affected: Champions add more, drones and creatures add less.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_green_lantern/0x13001663.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Meltdown",
+            "shortDesc": "Meltdown attaches to the target, then pulses once a second. Each pulse deals Power Damage and applies Radiation Sickness in an area. If the target dies or gains four stacks of Radiation Sickness, Meltdown will move to a nearby enemy. Meltdown lasts for a set number of pulses.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_green_lantern/0x13001661.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Radiation Sickness",
+            "shortDesc": "Damaging an enemy with a skill applies a stack of Radiation Sickness. At 4 stacks, all stacks are consumed and the enemy loses Move Speed, is dealt Power Damage over time, and is immune to further stacks for a brief time.<br><br><b>Trigger</b>: Striking an enemy with a Basic Attack applies a stack of Radiation Sickness.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_green_lantern/0x1300165B.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073744226?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073744226",
+        "shard": 21,
+        "description": "When they broke into an abandoned military bunker, those blighted survivors of the nuclear war couldn’t have realized what they were about to unleash on themselves. Within its derelict walls, they discovered a hibernating computer system. Sensing their movements, the system activated and they found attached to it the head of the Joker suspended in a preservation vessel. The Joker welcomed them with a cackle and told them it was time to build the future.<br><br>The Joker told them that the military had wanted to use his “unique mind” to come up with nuclear war scenarios. Displaying a brutal pragmatism that the Joker appreciated, they put his head in a preservation vessel and got rid of the “superfluous parts.” Now that the “serious” world was dead and gone, he told the survivors, it was time to build a new “crazy” one. So desperate were the survivors that they decided to listen to the Joker and began building a new community within the bunker.<br><br>As the community prospered, the survivors increasingly followed the Joker’s orders without question, until they eventually had no will of their own. When the Joker commanded that his vessel be attached to the back of one of his minions, so that he could better see the world he was building, many vied for the honor.<br><br>The gruesome combat that took place left but one survivor: a scarred, voiceless brute who the Joker named “Gaggy.” From his spot perched on Gaggy’s back, the Joker now rides through the nuclear wasteland, always looking to expand the borders of Jokertown.<br><br>The Joker of Earth-17 is the ultimate combination of brains and brawn. His minion Gaggy blindly follows any mad command to come from the Joker, without concern for himself.",
+        "characterName": "Atomic Joker",
+        "playStyle": "Atomic Joker sows chaos on the battlefield with maniacal glee, using his banana peel and acid balloons to create opportunities for Basic Attacks, while besieging his enemies with his long range skills.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Head Honcho",
+        "attackBar": 80,
+        "healthBar": 40,
+        "powerBar": 0,
+        "difficultyBar": 50,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_joker/0x130024C6.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_joker/0x130024CA.png",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_joker/0x130024C9.png",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_joker/0x130024C8.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_joker/0x130024C7.png"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Marksman",
+            "shortDesc": "A Marksman makes frequent use of a strong basic attack to devastate the enemy team with unrelenting damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C67.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Hot Potato",
+            "shortDesc": "Atomic Joker fires a potato at his target that deals Attack Damage. If there are any enemies standing behind that target, it will bounce to one of them and deal Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_joker/0x130024D0.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Plutonium Peel",
+            "shortDesc": "Atomic Joker uses a charge to toss a peel to the ground. The first enemy Champion or creature to touch it is Knocked Down. Targets are immune to peels for a short time after being Knocked Down.<br><br>The peel lasts for a long time. A charge is granted periodically.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_joker/0x130024CD.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Acid Balloon",
+            "shortDesc": "Atomic Joker launches a balloon at the ground, dealing Attack Damage over time and revealing targets. Marked targets take additional Attack Damage from Atomic Joker's Basic Attacks and Hot Potato.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_joker/0x130024CE.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Jack in the Box",
+            "shortDesc": "Atomic Joker fires a salvo of rockets at the closest Champion every few seconds. Each rocket deals Attack Damage. Each Champion can only be hit by 1 rocket per salvo. <br><br><B>Passive:</b> Atomic Joker's Basic Attack and skills have increased range.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_joker/0x130024CF.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "The Punch Line",
+            "shortDesc": "When defeated, Atomic Joker detaches from Gaggy, becomes Invincible, and bounces around the battlefield for a few moments. Each bounce deals Attack Damage to nearby enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_joker/0x130024CC.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743187?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743187",
+        "shard": 21,
+        "description": "As the radioactive fallout of the nuclear war withered the world's plant life, Pamela Isley was overwhelmed by the 'screams' of the dying plants and fell into a catatonic state. Upon awakening, she found herself transformed into something more plant than woman, and surrounded by a strange forest of mutated vegetation that had adapted to the bleak radioactive landscape. She realized she now had a connection to the plants that had survived, almost as if she could feel their thoughts and will. This connection to the 'Green' brought about an epiphany in her. She was now the defender of what plants remained. Through her, man would learn to fear nature, and she would ensure that man would never threaten the green again.<br><br>Although possessing a striking beauty, Atomic Poison Ivy does not wield seduction as a weapon. Instead, she uses her radioactively gifted powers to protect herself, obscure her allies, and entrap and or poison her foes.",
+        "characterName": "Atomic Poison Ivy",
+        "playStyle": "Atomic Poison Ivy wants to be in the thick of it, using her skills to close distance or keep her prey close.",
+        "alignment": "Villain",
+        "multiverse": "Atomic",
+        "subtitle": "Mistress of the Toxic Forest",
+        "attackBar": 15,
+        "healthBar": 80,
+        "powerBar": 50,
+        "difficultyBar": 50,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_poison_ivy/0x13001F17.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_poison_ivy/0x13001F18.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_poison_ivy/0x13001F1B.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_poison_ivy/0x13001F19.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_poison_ivy/0x13001F1A.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Enforcer",
+            "shortDesc": "An Enforcer is the first into a battle and tries to soak up as much damage for their team possible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6B.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Poisoned Earth",
+            "shortDesc": "Atomic Poison Ivy deals Power Damage to all enemies in an area around her.<br><br>Toxic Growth: Targets with Toxic Growth are dealt additional Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_poison_ivy/0x130018AF.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Bramble Rapture",
+            "shortDesc": "Atomic Poison Ivy deals Power Damage and Roots her target.<br><br>Toxic Growth: Using this skill against a target with Toxic Growth grants her Move Speed.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_poison_ivy/0x130018B0.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Wall of Thorns",
+            "shortDesc": "After a short delay, Atomic Poison Ivy summons a wall. Enemies that touch the wall lose Move Speed.<br><br>Toxic Growth: Enemies with Toxic Growth are also dealt Power Damage over time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_poison_ivy/0x130018B1.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Secrets of the Forest",
+            "shortDesc": "Atomic Poison Ivy shrouds an area around her in fog for a time. She and allies within the area gain Power Armor. Allies within the fog are Stealthed as if in a Stealth Pad, but she remains visible.<br><br>She applies Toxic Growth to enemies in the area every second.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_poison_ivy/0x130018B4.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Toxic Growth",
+            "shortDesc": "If Atomic Poison Ivy takes no damage for a short time, she will gain a Shield that blocks damage. While Shielded, enemies that Basic Attack her have Toxic Growth applied to them.<br><br>She applies Toxic Growth to any target she damages with a skill, or if the target already has Toxic Growth, her skills consume it for bonus effects.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_poison_ivy/0x130018B2.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742828?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742828",
+        "shard": 21,
+        "description": "With the world's superpowers threatening nuclear war, Wonder Woman was in training to come to 'Man's World' in hopes of brokering a peace between the parties. As she was preparing to leave, an object from space crashed into Kansas, destroying the town of Smallville. The United States, mistaking the impact for a first strike, retaliated for this perceived attack. Soon, both sides exchanged their full nuclear arsenal. No portion of the Earth was untouched and even Wonder Woman's home island of Themyscira was left in ruins. When the bombs stopped and a deathly silence covered the world, Wonder Woman saw that her mission of peace had become an errand of mercy and restoration. In the rubble of the world, she struggles to help the survivors build a new, and hopefully more harmonious, world.<br><br>Although she has seen terrible loss and destruction, Wonder Woman's will remains strong. She is confident the world can be rebuilt and that hope will return to the Earth.",
+        "characterName": "Atomic Wonder Woman",
+        "playStyle": "Atomic Wonder Woman is excellent at quickly closing the distance to an enemy, and then using all of her skills to quickly deal a large burst of damage.",
+        "alignment": "Hero",
+        "multiverse": "Atomic",
+        "subtitle": "The Reclaimer",
+        "attackBar": 80,
+        "healthBar": 10,
+        "powerBar": 10,
+        "difficultyBar": 40,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_wonder_woman/0x13001F12.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_wonder_woman/0x13001F13.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_wonder_woman/0x13001F16.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_wonder_woman/0x13001F14.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atomic_wonder_woman/0x13001F15.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Assassin",
+            "shortDesc": "An Assassin works best when jumping into a situation, doing their max damage upfront, and getting out before the enemy knows what happened!",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6D.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Vault",
+            "shortDesc": "Atomic Wonder Woman leaps to the target area, dealing Attack Damage to nearby enemies.<br><br><b>Revved:</b> For a few seconds after using Vault with the Revved bonus, Vault can be used a second time, but only deals half damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_wonder_woman/0x13001304.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Smite",
+            "shortDesc": "Reset Basic Attack cooldown. Atomic Wonder Woman's next Basic Attack deals additional Attack Damage.<br><br><b>Revved:</b> Her next Basic Attack more additional Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_wonder_woman/0x13001305.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Savage Sweep",
+            "shortDesc": "Atomic Wonder Woman deals Attack Damage in a cone. Enemies on the outer edge of the cone take additional Attack Damage over time, and lose Move Speed.<br><br><b>Revved:</b> Savage Sweep changes from a cone to a circle, and all targets in the circle are hit as if they were on the edge of the cone.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_wonder_woman/0x13001303.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Reclaimer",
+            "shortDesc": "Atomic Wonder Woman runs to a targeted Champion, becoming immune to Disables for the duration. When she reaches her target she deals Attack Damage and fills her Rev meter.<br><br>During her charge, her target is Revealed in the fog of war and in Stealth Pads.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_wonder_woman/0x13001302.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Rev",
+            "shortDesc": "Atomic Wonder Woman gains 1 Rev when she deals damage with a skill. When she has 2 Rev, her next skill has additional effects and will reduce all of her cooldowns, but resets her Rev to 0.<br><br>She loses a point of Rev every few seconds. Dealing damage with Skills or Basic Attacks resets this decay.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atomic_wonder_woman/0x13001306.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073744178?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073744178",
+        "shard": 21,
+        "description": "Millions of years ago, an insane Guardian introduced a flaw into the programming of the Manhunters, robotic peace keepers created by the Guardians of the Universe. This flaw led to the Manhunters slaughtering an entire sector of space before they were shutdown. Of trillions of inhabitants, only Atrocitus and four other creatures survived this massacre. These survivors formed a terrorist cabal called the 'Five Inversions'. The Inversions went on to wage war against the Guardians, but were ultimately defeated and imprisoned. Imprisonment, though, did not quench Atrocitus' rage. Eventually gaining his freedom, he butchered his fellow Inversions and used their blood and his rage to fashion the first Red Power Ring. So armed, his war on the Guardians began anew.<br><br>Unlike other Power Rings, those who wear a Red Power Ring are typically unable to create constructs. Instead, they are able to summon forth and expel from their mouth a red-colored plasma that adheres to its target. In addition to the abilities granted him by his Power Ring, Atrocitus is a brutal, unforgiving fighter who rarely shows mercy in combat.",
+        "characterName": "Atrocitus",
+        "playStyle": "Atrocitus is great at running head first into a team, transferring incoming damage into rage for empowering his skills. Use Plasma Wave on as many targets as possible to gain a significant boost in team damage output.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Survivor of Sector 666",
+        "attackBar": 20,
+        "healthBar": 40,
+        "powerBar": 60,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atrocitus/0x1300243E.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atrocitus/0x13002442.png",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atrocitus/0x13002441.png",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atrocitus/0x13002440.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/atrocitus/0x1300243F.png"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Enforcer",
+            "shortDesc": "An Enforcer is the first into a battle and tries to soak up as much damage for their team possible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6B.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Crimson Slash",
+            "shortDesc": "Reset Basic Attack cooldown. Atrocitus' next Basic Attack will deal additional Power Damage, and the target will lose Move Speed for a short time.<br><br>Enraged: The Power Damage and Move Speed penalty are applied in an area around the target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atrocitus/0x13002482.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Come At Me",
+            "shortDesc": "For a short time, Atrocitus Taunts nearby drones and creatures, and all damage he takes is reduced. He gains bonus damage reduction based on the percentage of health missing<br><br>Enraged: While Come At Me is active, Red Lantern's Rage can deal damage more often.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atrocitus/0x13002483.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Overwhelming Rage",
+            "shortDesc": "Atrocitus forces an enemy Champion to charge at him while he charges toward them, dealing Power Damage when they collide.<br><br>Enraged: Atrocitus and his target are Taunted to each other for a short while after colliding. During this time they Basic Attack 3 times per second, but deal reduced Basic Attack damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atrocitus/0x13002484.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Plasma Wave",
+            "shortDesc": "Atrocitus spews a wave of plasma, increasing enemy's incoming damage and dealing Power Damage over a few seconds.  For each Champion hit, Atrocitus gains Rage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atrocitus/0x13002485.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Red Lantern's Rage",
+            "shortDesc": "Atrocitus deals Power Damage to nearby enemies each time he is damaged, up to once every few seconds.<br><br>He becomes Enraged when he has at least 50 rage. While Enraged, his skills are upgraded, but cost 50 Rage to use.<br><br>He gains Rage when he uses a Basic Attack or takes Damage from Champions. He gains half that amount when damaged by other sources. If a several seconds have passed since he gained Rage, he begins losing Rage over time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/atrocitus/0x13002486.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743866?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743866",
+        "shard": 21,
+        "description": "Caught up in a fight between warring super-human gangs, Jaime Reyes ended up with the object they were battling over: a strange blue scarab-shaped object. The scarab bonded to his back and instantly covered his body in battle armor, allowing him to escape. However, once removed from the fight he was horrified to discover that while the armor could be removed, the scarab could not. Worse, the scarab began 'speaking' in his mind. It revealed it had been created by an alien empire bent on universal conquest. The scarab's programming was designed to control its wearer's mind, forcing them to pave the way for invasion. Fortunately, the scarab was damaged and Jaime retained his free will.<br><br>Although he possesses tremendous power, Jaime is an awkward teenager and a bit of a klutz. This is made worse by the fact that the scarab's original programming was intended for war, so the weapons it suggests are typically quite dangerous and Jaime must fight to control them.",
+        "characterName": "Blue Beetle",
+        "playStyle": "Forever bonded with an alien-created blue scarab device that grants him amazing powers, teenager Jaime Reyes struggles to control those powers and defend the Earth.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Reach Infiltrator",
+        "attackBar": 70,
+        "healthBar": 30,
+        "powerBar": 10,
+        "difficultyBar": 100,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/blue_beetle/0x13001EEF.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/blue_beetle/0x13001EF0.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/blue_beetle/0x13001EF3.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/blue_beetle/0x13001EF2.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/blue_beetle/0x13001EF1.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Marksman",
+            "shortDesc": "A Marksman makes frequent use of a strong basic attack to devastate the enemy team with unrelenting damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C67.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Energy Cannon",
+            "shortDesc": "Blue Beetle fires a shot of his Energy Cannon, dealing damage to the first enemy it hits and explodes dealing less damage to other nearby enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/blue_beetle/0x13001DDF.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Scarab Scanner",
+            "shortDesc": "Blue Beetle launches a Scarab Scanner to the target location, where it grants vision.<br><br>The Scanner will explode and mark nearby enemies when the skill is used again, when enough time passes, or when Blue Beetle enters Infiltrator Mode. Using a skill or Basic Attack on a marked enemy will consume the mark to deal damage as if the enemy was struck by Reach Directive.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/blue_beetle/0x13001DE0.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Stick And Move",
+            "shortDesc": "Blue Beetle rushes in target direction. While rushing he turns and fires several energy pulses at the closest enemy he is dashing away from. Each pulse deals Attack Damage, which is reduced when hitting an enemy more than once.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/blue_beetle/0x13001DE2.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Infiltrator Mode",
+            "shortDesc": "Blue Beetle converts to Infiltrator Mode. While in Infiltrator mode, his Basic Attacks become melee range, he has different skills, and he gains 20 Move Speed.<br><br>Ranks in Infiltrator Mode increase the potency of all skills in that form, except for the passive.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/blue_beetle/0x13001DE5.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Reach Directive: Disrupt",
+            "shortDesc": "After using a skill, Blue Beetle's next Basic Attack will deal True Damage. It deals the most True Damage if your target has full health. Each 1% of Max Health the target is missing reduces this damage by 1%.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/blue_beetle/0x13001DE4.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742876?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742876",
+        "shard": 21,
+        "description": "Selina Kyle's young life was marred by tragedy. Her mother took her own life, and her violent father drank himself to death soon after. After being remanded to an abusive state home, Selina escaped and took her chances on the streets. She soon fell into petty theft, and eventually became a talented master thief. In recent years, she has reformed and now fights crime. It was through her crimes that she first encountered the Batman. Although they were enemies, they both soon discovered an attraction toward each other. Due to their complicated situation, neither party has ever fully committed to a romantic relationship.<br>Years of training have made Catwoman stealthy and agile, and her mastery of the martial arts makes her a formidable physical opponent. She frequently wields a whip, which she uses as both a weapon and a grappling hook.",
+        "characterName": "Catwoman",
+        "playStyle": "Catwoman uses her whip to harass her enemies from a distance, dealing increased damage from further away. She relies on her acrobatic skills to keep her distance and can even trip her foes with her whip. If enemies get too close or low on health, Catwoman's claws and kicks can be used to savage effect up close. All the while, she uses her skills as a burglar to gain additional credits.",
+        "alignment": "Vigilante",
+        "multiverse": "Prime",
+        "subtitle": "Feline Fatale",
+        "attackBar": 10,
+        "healthBar": 30,
+        "powerBar": 80,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/catwoman/0x13001EEA.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/catwoman/0x13001EEB.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/catwoman/0x13001EEE.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/catwoman/0x13001EEC.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/catwoman/0x13001EED.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Blaster",
+            "shortDesc": "A Blaster has strong Powers, often unleashing bursts of punishment on enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6C.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Whip Strike",
+            "shortDesc": "Catwoman lashes her target, dealing Power Damage and applying Hit Effects. Additional damage is dealt to targets near the edge of her skill range.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/catwoman/0x13001464.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Cat's Paw",
+            "shortDesc": "Catwoman's target is dealt Power Damage and loses  Move Speed for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/catwoman/0x13001465.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Acrobat",
+            "shortDesc": "Catwoman rushes in target direction and gains the Acrobat effect for a short time.<br><br>Acrobat improves her next skill:<br><br><b>Whip Strike:</b> Extra damage, and half damage in an area around the target.<br><b>Cat's Paw:</b> Knock Down the target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/catwoman/0x1300146A.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Bad Kitty",
+            "shortDesc": "For the duration of Bad Kitty, Catwoman's skills and Basic Attacks make her victims bleed, dealing Power Damage over time.<br><br>In addition, Acrobat resets its cooldown and becomes Savage Acrobat, which deals Power Damage to enemies she rushes through, has a shorter cooldown, and costs half as much <font color='#8ccfff'>Will</font>.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/catwoman/0x13001468.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Cat Burglar",
+            "shortDesc": "Whenever a Credit is collected or a drone/creature is last hit near Catwoman, the cooldown of all her other skills is reduced.<br><br>When Catwoman damages an enemy, a coin is created, which can be collected by anyone on her team.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/catwoman/0x13001466.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742770?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742770",
+        "shard": 21,
+        "description": "Victor 'Vic' Stone only ever wanted to please his father, a brilliant scientist who couldn't appreciate his son's impressive athletic skills. Sadly, tragedy mutilated the star quarterback and in a desperate attempt to save his son's life, his father implanted him with experimental prosthetics. The procedure worked, but Vic quickly discovered he could not resume his old life. But the cybernetics granted him incredible abilities that quickly garnered the attention of the world's greatest super heroes and he finally found some solace when he joined the Justice League. After many adventures Vic seems to be finally accepting his situation and now mentors young heroes.<br><br>Vic's prosthetics grant him tremendous resilience. In addition, over the years, Vic's prosthetics have been upgraded with alien technology, and he is now able to morph his body as needed. For instance, he can form his arms into cannons or blades in combat.",
+        "characterName": "Cyborg",
+        "playStyle": "Cyborg takes out his enemies from afar with sustained damage. He supplements this with skills that increase his attack speed, and his critical chance against chosen targets.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Human Arsenal",
+        "attackBar": 90,
+        "healthBar": 10,
+        "powerBar": 10,
+        "difficultyBar": 40,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/cyborg/0x13001EE5.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/cyborg/0x13001EE6.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/cyborg/0x13001EE9.png",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/cyborg/0x13001EE7.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/cyborg/0x13001EE8.png"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Marksman",
+            "shortDesc": "A Marksman makes frequent use of a strong basic attack to devastate the enemy team with unrelenting damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C67.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Tracer Shot",
+            "shortDesc": "Cyborg fires a burst of energy. It deals Attack Damage and marks every enemy hit.<br><br>Cyborg's Basic Attacks deal additional Attack Damage when attacking enemies marked with Tracer Shot.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/cyborg/0x13001249.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Charged Burst",
+            "shortDesc": "Nearby enemies lose Move Speed for a short time.<br><br>Targets marked by Tracer Shot are dealt Attack Damage, their Move Speed penalty is doubled, and the Tracer Shot mark duration is refreshed.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/cyborg/0x13001248.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Cascade",
+            "shortDesc": "Cyborg gains Move Speed and Attack Speed for a short time.<br><br>While this skill is active, Basic Attacks against marked targets increase the duration of Cascade by 1 second, up to a maximum.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/cyborg/0x13001247.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Plasma Cannon",
+            "shortDesc": "Cyborg fires a massive blast, dealing Attack Damage to all enemies in the area, and pushing Cyborg back a short distance.<br><br>For a few seconds after the blast, Cyborg's Basic Attacks pierce through targets, firing their full range and damaging all enemies in the line.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/cyborg/0x13001246.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Cybernetic Targeting",
+            "shortDesc": "Every few Basic Attacks Cyborg deals a percentage of the target's Max Health as bonus Attack Damage.<br><br>Bonus damage against creatures and drones is capped.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/cyborg/0x1300124A.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742742?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742742",
+        "shard": 21,
+        "description": "Beloved by the people of Central City and gifted with a brilliant mind, the Flash uses super speed to dash from threat to threat.<p>A police scientist in Central City, Barry Allen was caught in a chemical explosion when a lightning bolt crashed through his laboratory windows. Now able to control the motion of every molecule in his body, Barry moves at extreme speeds, phases through solid matter, and whips up whirlwinds.",
+        "characterName": "Flash",
+        "playStyle": "The Flash gains speed by using his powers, and deals more damage the faster he is moving. His style is centered around hitting hard and fast, securing a kill or dealing significant damage, and then getting out.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "The Fastest Man Alive",
+        "attackBar": 80,
+        "healthBar": 30,
+        "powerBar": 0,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/flash/0x13001ED1.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/flash/0x13001ED2.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/flash/0x13001ED5.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/flash/0x13001ED4.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/flash/0x13001ED3.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Assassin",
+            "shortDesc": "An Assassin works best when jumping into a situation, doing their max damage upfront, and getting out before the enemy knows what happened!",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6D.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Flash Attack",
+            "shortDesc": "The Flash rushes to target location, dealing Attack Damage to all enemies he touches.The cooldown of Flash Attack is reduced if he rushes less than Flash Attack's maximum range.<br><br>If Hyper Vibration is active, this skill changes to a dash and can pass through walls.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/flash/0x13001134.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "F=MA",
+            "shortDesc": "Resets Basic Attack cooldown. The Flash's Basic Attack speed is set to 3 per second for a short time or until he uses several Basic Attacks. During this time, the Flash's Basic Attacks deal reduced damage, but each hit deals additional Attack Damage.<br><br>F=MA's attacks apply Hit Effects, but the bonus Attack Damage does not apply to structures.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/flash/0x13001133.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Hyper Vibration",
+            "shortDesc": "For a short time Flash Attack changes to a dash and can pass through walls. Damaging or touching an enemy Champion grants him a stack of Speed Force, and his target loses Move Speed, which decays over time. Champions may only be affected once.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/flash/0x13001132.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Speed Storm",
+            "shortDesc": "The Flash becomes Invincible while he runs around an area for a short time. Every half second he gains a stack of Speed Force and deals Attack Damage to all enemies in the area. At the end of this time, or if the skill is triggered again to end early, additional damage dealt to all enemies still in the area.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/flash/0x13001130.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Speed Force",
+            "shortDesc": "When the Flash uses a skill he gains a stack of Speed Force. Speed Force grants him Move Speed for a short time, and can stack several times.<br><br>The Flash gains Bonus Damage (+1% per 10 Bonus Move Speed) based on his Bonus Move Speed.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/flash/0x13001131.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073741958?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073741958",
+        "shard": 21,
+        "description": "Although residing in another universe, the origin of Earth-19's Batman is just as tragic as that of the Batman of Earth-0. Gaslight Batman saw his parents gunned down in front of him, which caused him to dedicate his life towards trying to make a world where such tragedies could never happen. Like Batman, Gaslight Batman cares deeply about his fellow man and will do all he can to save lives and reduce suffering.<br><br>Unlike the playboy persona the Earth-0 Bruce Wayne takes on, Gaslight Bruce is the proper Edwardian gentleman. Gaslight Batman and Batman have similar personalities, and when 'on duty' can be both brusque and tactless.<br><br>The loud rapport of the guns used by his parents' murderer continues to haunt Gaslight Batman - causing him to incorporate sound into his war on crime. Living in an 'Age of Invention,' Gaslight Batman has complemented his formidable martial art skills with a number of sonic weapons.",
+        "characterName": "Gaslight Batman",
+        "playStyle": "Gaslight Batman relies on his trusty sonic pistols to deal the majority of his damage, but his skills still pack a punch, and offer utility to catch or escape his opponents.",
+        "alignment": "Hero",
+        "multiverse": "Gaslight",
+        "subtitle": "The Sound of Justice",
+        "attackBar": 90,
+        "healthBar": 10,
+        "powerBar": 25,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/batman_gaslight/0x13001EF4.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/batman_gaslight/0x13001EF5.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/batman_gaslight/0x13001EF8.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/batman_gaslight/0x13001EF6.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/batman_gaslight/0x13001EF7.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Hybrid Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness with both Attack Damage and Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000F1F.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Marksman",
+            "shortDesc": "A Marksman makes frequent use of a strong basic attack to devastate the enemy team with unrelenting damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C67.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Sonic Batarang",
+            "shortDesc": "Gaslight Batman throws a batarang that deals Attack Damage to the first enemy it hits, then bounces several times, dealing 20% less damage with each bounce.<br><br>It bounces to enemies with Echoes first.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000374.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Sonic Shell",
+            "shortDesc": "Gaslight Batman throws a sonic shell that explodes when it reaches the target location, or when the skill is used again. Enemies in the area are dealt Power Damage, have Echoes applied to them, and are Revealed for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000377.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Bat Flight",
+            "shortDesc": "Gaslight Batman rushes forward, dealing Power Damage to every enemy he passes through.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000373.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Bat Scream",
+            "shortDesc": "Gaslight Batman fires a sonic blast that travels the length of the battlefield, dealing Power Damage to every enemy it hits. It deals 10% less damage to each successive target, to a minimum of 50% damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000375.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Echoes",
+            "shortDesc": "Gaslight Batman's Basic Attacks apply the Echoes effect for a short time. When he uses a skill to hit a target with Echoes, that skill deals additional damage, and Gaslight Batman gains a stack of Reverb.<br><br>Gaslight Batman gains Attack Speed per stack of Reverb.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000DC2.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742434?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742434",
+        "shard": 21,
+        "description": "Although living in poverty in a Gotham slum, Selina Kyle's widowed father refused to sell his daughter to a League of Assassins agent who wanted to have her trained to become an assassin. Undeterred, the agent murdered her father and kidnapped Selina, bringing her to a hellish League training house. Strong-willed and dedicated, she excelled in her training and gained Ra's al Ghul's notice. Ra's decided she would be the perfect practice partner for his own daughter, Talia. A strong friendship formed between the two women, a friendship that was shattered when Selina failed to assassinate a target. As she stalked her target, a diplomat, she watched him tuck his small daughter into bed, triggering memories of her own father. Awash in memory and guilt, Selina fled, and was marked for death by the League. Now she has returned to Gotham and uses her skills to defend the weak and oppressed. <br><br>Gaslight Catwoman is a master of tracking and stealth. The first thing that usually alerts her targets to her presence is the feel of her claws against their neck. This is also usually the last thing they feel.",
+        "characterName": "Gaslight Catwoman",
+        "playStyle": "A master of tracking, stealth, and assassination, Gaslight Catwoman excels at hunting down and finishing off enemies at low health.",
+        "alignment": "Vigilante",
+        "multiverse": "Gaslight",
+        "subtitle": "Claws of Vengeance",
+        "attackBar": 80,
+        "healthBar": 10,
+        "powerBar": 10,
+        "difficultyBar": 40,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_catwoman/0x13001EC7.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_catwoman/0x13001EC8.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_catwoman/0x13001ECB.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_catwoman/0x13001ECA.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_catwoman/0x13001EC9.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Assassin",
+            "shortDesc": "An Assassin works best when jumping into a situation, doing their max damage upfront, and getting out before the enemy knows what happened!",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6D.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Steampowered Claws",
+            "shortDesc": "Gaslight Catwoman fires 3 claws from her gauntlet in a cone. They deal Attack Damage and apply Predator's Mark to the target. Targets hit by multiple claws take full damage from the first claw, and 25% damage from the additional claws.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_catwoman/0x13000CF2.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Shred",
+            "shortDesc": "Gaslight Catwoman deals Attack Damage to her target, applying Hit Effects, and Sharpened Claws. If the target has less than 50% Health, Gaslight Catwoman will deal a percentage of the target's Max Health as additional Attack Damage.<br><br>When targeting creatures and drones, this damage bonus has a cap.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_catwoman/0x13001895.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Blood Hunt",
+            "shortDesc": "Gaslight Catwoman enters Stealth for a short time. If there are any enemy Champions with less than 50% Health nearby, then they will be Revealed, and she gains Move Speed.<br><br>When Gaslight Catwoman uses a Basic Attack or Shred from Stealth, she deals extra Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_catwoman/0x13000CF4.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Predator's Grace",
+            "shortDesc": "Gaslight Catwoman blinks to the target and deals Attack Damage.<br><br>If the target has the Predator's Mark effect, then Predator's Grace has a very short cooldown and the effect is removed from the target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_catwoman/0x13000CF5.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Sharpened Claws",
+            "shortDesc": "Gaslight Catwoman's Basic Attacks deal additional Attack Damage over time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_catwoman/0x13000D8A.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742733?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742733",
+        "shard": 21,
+        "description": "In cities across Europe and America, tales have been told of an affable 'Laughing Butcher' who, with a joke and a smile, would lead unsuspecting street dwellers to their deaths - feeding them to his 'pets,' hordes of rats that lived beneath his shop. The police never investigated these tales, but when the Butcher moved to Gotham, the Batman discovered his shop and attempted to bring him to justice. The Butcher fled to a nearby tannery where he fell into a vat of chemicals. These chemicals bleached his skin white and distorted his face into a rictus grin. No longer able to hide in the shadows, the Butcher began calling himself 'The Joker' and set about committing more audacious and horrific crimes, all aimed at keeping his pets well fed.<br><br>Gaslight Joker typically acts as if he were performing for an audience, which in his warped mind, are his pet rats. To that end, his movements and attacks are both brutal and flamboyant.",
+        "characterName": "Gaslight Joker",
+        "playStyle": "Gaslight Joker is excellent at making his enemies come to him and then preventing them from escaping with his pet rats. He also uses his skill Shield to turns his opponent's crowd control into a burst of speed, allowing him to close on foes when they least desire it.",
+        "alignment": "Villain",
+        "multiverse": "Gaslight",
+        "subtitle": "The Laughing Butcher",
+        "attackBar": 30,
+        "healthBar": 90,
+        "powerBar": 60,
+        "difficultyBar": 10,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_joker/0x13001EB8.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_joker/0x13001EB9.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_joker/0x13001EBC.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_joker/0x13001EBA.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/gaslight_joker/0x13001EBB.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Enforcer",
+            "shortDesc": "An Enforcer is the first into a battle and tries to soak up as much damage for their team possible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6B.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Fetid Cleaver",
+            "shortDesc": "Reset Basic Attack cooldown. Gaslight Joker's next Basic Attack within deals additional Power Damage, applies Filthy, and grants him Health equal to a percentage of his Max Health.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_joker/0x1300102F.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Ham Toss",
+            "shortDesc": "Gaslight Joker tosses his ham at the ground, dealing Power Damage in the area. Damaged enemy Champions are Feared (forced to flee) for a short time. Drones and creatures are Stunned. All targets also receive the Filthy effect for a few seconds.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_joker/0x13001030.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Snack Time!",
+            "shortDesc": "Gaslight Joker gains a Skill Shield that prevents the damage and effects of the next enemy skill that hits him.<br><br>When a skill is blocked, Snack Time's cost is refunded and he gains Move Speed. His Move Speed fades back to normal over a short time.<br><br>If he has a Skill Shield from another source, both Skill Shields will be consumed when they block a skill.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_joker/0x13001031.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Rat Swarm",
+            "shortDesc": "Using Rat Swarm toggles the skill on or off. When toggled on, a horde of rats follow Gaslight Joker. Enemies in the area lose Move Speed, and are dealt Power Damage per second.  The cost of Rat Swarm is decreased by  if an enemy Champion is in the swarm.<br><br>Rat Swarm's Slow is doubled on Filthy enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_joker/0x13001032.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Blood Money",
+            "shortDesc": "<b>Trigger</b>: Whenever a Credit is collected or a drone/creature is last hit near Gaslight Joker, he regains Health over time, and he permanently gains Max Health, up to a maximum. If he dies, this increase is halved.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/gaslight_joker/0x13001033.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743609?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743609",
+        "shard": 21,
+        "description": "Son of a billionaire, Oliver Queen was once nothing more than a spoiled socialite, a disappointment to his family. He grew up quickly when an extravagant party he was hosting out in the Pacific was attacked by pirates. The pirates hoped to earn millions from their hostages, but Oliver eluded capture and fought back. He launched a sneak attack on the pirates with his bow, but Oliver hadn’t taken his lessons seriously and was a poor archer. He errant shot triggered the dead-man’s switch the pirate leader was holding. Dozens were killed in the explosion and Oliver was thrown into the ocean. Washed ashore on to a deserted island, he honed his bow skills to survive. Years later when he was rescued, Oliver dedicated his life to making things right, and became Green Arrow.<br><br>Green Arrow is a master archer, capable of pulling off amazing 'trick' shots while performing acrobatic moves. His quiver is stocked with many specialized arrows, which he uses to gain the upper hand in combat.",
+        "characterName": "Green Arrow",
+        "playStyle": "Green Arrow has three different modes he can toggle between that grant him different passive benefits and alter the effects of his ultimate skill. He also has access to his ultimate from Level 1. These combine to make him a versatile Champion with tools for a variety of situations, strong poke, and good sustained damage.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Emerald Archer",
+        "attackBar": 90,
+        "healthBar": 40,
+        "powerBar": 10,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/green_arrow/0x13001EB3.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/green_arrow/0x13001EB4.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/green_arrow/0x13001EB7.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/green_arrow/0x13001EB5.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/green_arrow/0x13001EB6.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Marksman",
+            "shortDesc": "A Marksman makes frequent use of a strong basic attack to devastate the enemy team with unrelenting damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C67.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Superfoam Arrows",
+            "shortDesc": "Green Arrow rushes in the targeted direction and enters the Superfoam stance. His next Basic Attack has an Arrow Bonus that reduces the target's Move Speed for a short time.<br><br><b>Stance Bonus:</b> While in Superfoam Arrow stance, Green Arrow gains Move Speed. Taking damage suppresses this Move Speed bonus for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/green_arrow/0x13001CBD.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Ballistic Arrows",
+            "shortDesc": "Green Arrow enters the Ballistic stance. His next Basic Attack has an Arrow Bonus that deals extra Attack Damage.<br><br><b>Stance Bonus:</b> While in Ballistic stance, Green Arrow gains Attack Penetration, and Bullseye can hit multiple Champions.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/green_arrow/0x13001CBE.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Thermite Arrows",
+            "shortDesc": "Green Arrow enters the Thermite stance. His next Basic Attack has an Arrow Bonus that applies a bomb to the target. If another bomb is applied, or enough time passes, then it explodes and deals Attack Damage in an area<br><br><b>Stance Bonus:</b> While in Thermite stance, any target killed by Green Arrow's Basic Attacks will explode, dealing Attack Damage in an area.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/green_arrow/0x13001CBF.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Bullseye",
+            "shortDesc": "<b>Aim:</b> Green Arrow begins channeling, increasing range and damage over time. While channeling he loses Move Speed, and cannot Basic Attack. If he waits too long the skill cancels, and refunds half of its cost.<br><br><b>Fire:</b> Fire an arrow that deals Attack Damage to all enemies struck. Upon hitting an enemy Champion, the arrow stops and applies the Arrow Bonus of the active stance.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/green_arrow/0x13001CC0.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Adaptable Ammo",
+            "shortDesc": "When Green Arrow uses Superfoam Arrows, Ballistic Arrows, or Thermite Arrows, he gains Attack Speed for a few seconds, and reduces the cooldown of Bullseye.<br><br>His ultimate skill, Bullseye, can be ranked at levels 1, 6, 11, and 16.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/green_arrow/0x13001CC1.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743421?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743421",
+        "shard": 21,
+        "description": "Mecha Superman is the result of the fusion of an Earth agro-industrial mechanoid with a damaged Kryptonian probe. The crashed probe was discovered by a young Clark Kent, who connected it to the farm's Agrobot to try to download its data. The probe quickly reconfigured the bot into a humanoid shape, and explained its origin and purpose to the amazed Clark. He dubbed the bot 'K.A.L.', for Kryptonian Artificial Life-form, and hid it from his parents. Eventually, they discovered K.A.L's existence, but seeing that the bot only wished to continue its mission of exploration, agreed to keep it hidden.<br><br>Clark took it upon himself to teach K.A.L. what it meant to be human. One of Clark's favorite methods was through playing the 'Superman' game. Superman was an imaginary, nearly invulnerable hero created by Clark. In the game, Clark - as Superman - would always save the day, righting wrongs and saving innocents from the evil 'Metallo,' an imaginary villain always played by K.A.L. However, no matter how many times they played the game, K.A.L. never quite understood its point.<br><br>One tragic day, returning home from school, Clark was killed at the hands of a drunk driver. Initially, K.A.L. couldn't process the idea that Clark was gone forever. However, as it saw Clark's parents struggle with their grief, K.A.L. finally understood the simple and terrible truth behind Clark's game: bad things happen, and the world needs a Superman to protect it.<br><br>Although his hulking robotic form would indicate otherwise, Mecha Superman possesses a curious and trusting nature. His remarkable intellect allows him to adapt quickly to any situation, although at times his natural curiosity may distract him from the matter at hand.",
+        "characterName": "Mecha Superman",
+        "playStyle": "Mecha Superman moves the earth itself to keep his allies safe, throwing up walls of rock then destroying them to debilitate his foes.",
+        "alignment": "Hero",
+        "multiverse": "Mecha",
+        "subtitle": "The Agent of Hope",
+        "attackBar": 20,
+        "healthBar": 90,
+        "powerBar": 40,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_superman/0x13001E8B.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_superman/0x13001E8C.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_superman/0x13001E8F.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_superman/0x13001E8D.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_superman/0x13001E8E.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Enforcer",
+            "shortDesc": "An Enforcer is the first into a battle and tries to soak up as much damage for their team possible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6B.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Drill Attack",
+            "shortDesc": "Mecha Superman deals Power Damage to all enemies in a line, and briefly Stuns them. Any Small Environmental Objects in the line explode, Silencing nearby Champions for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_superman/0x13001C4B.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Sunstone Eruption",
+            "shortDesc": "After a short delay, Mecha Superman deals Power Damage in targer area, and creates a Small Environmental Object that lasts for a short while. Any other Small Environmental Objects in this area are destroyed, causing nearby enemies to be Knocked up.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_superman/0x13001C51.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Fissure",
+            "shortDesc": "Mecha Superman creates an impassible wall for a few seconds, as well as 2 Small Environmental Objects that last for 10 seconds. Using the skill again will dispel the wall early.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_superman/0x13001C4A.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Terraformer",
+            "shortDesc": "Mecha Superman shakes the earth around him for several seconds, dealing Power Damage per second to nearby enemies.<br><br>During this time Agent of Hope activates, and Mecha Superman's Basic Attacks create Small Environmental Objects.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_superman/0x13001C48.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Agent of Hope",
+            "shortDesc": "When Mecha Superman destroys an Environmental Object, he emits an aura for a short time that grants him and his allies Attack Armor, Power Armor, and Health per second.<br><br>If an allied Champion is nearby, Mecha Superman will gain double this healing for himself.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_superman/0x13001C4C.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742979?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742979",
+        "shard": 21,
+        "description": "Mecha Wonder Woman began her life as D1A-NA, a diplomatic robot in service to Queen Hippolyta, ruler of the Amazon women of the island nation of Themyscira. Hippolyta had made it her life's work to forge a more peaceful world and was called 'the wonder woman' by the press. D1A-NA was ever present with the queen as she traveled the world and in time developed a personality that reflected the idealistic woman's feelings on justice and equality.<br><br>Sadly, while accompanying Hippolyta on an errand of mercy, D1A-NA witnessed the horrific assassination of her queen at the hands of Doom Legion assassin bots. At that moment, she was transformed. An iron resolve developed within her, and she vowed to both avenge the queen's death and continue her quest.<br><br>With the aid of the Justice Consortium, D1A-NA remade herself, far exceeding her creator's original design. With these upgrades and the knowledge of the Amazonian Warriors stored within her memory banks, she has taken on the mantle of the 'Wonder Woman' and sheds the light of truth on a corrupt, violent world.",
+        "characterName": "Mecha Wonder Woman",
+        "playStyle": "Mecha Wonder Woman is a quintessential Marksman, dealing sustained damage from afar and using Afterburn to escape from tricky situations.",
+        "alignment": "Hero",
+        "multiverse": "Mecha",
+        "subtitle": "The Warden of Truth",
+        "attackBar": 70,
+        "healthBar": 20,
+        "powerBar": 70,
+        "difficultyBar": 10,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_wonder_woman/0x13001E86.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_wonder_woman/0x13001E87.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_wonder_woman/0x13001E8A.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_wonder_woman/0x13001E88.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/mecha_wonder_woman/0x13001E89.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Hybrid Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness with both Attack Damage and Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000F1F.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Marksman",
+            "shortDesc": "A Marksman makes frequent use of a strong basic attack to devastate the enemy team with unrelenting damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C67.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Glaive Storm",
+            "shortDesc": "Mecha Wonder Woman launches 3 glaives in a wide spread. Each glaive deals Power Damage to the first enemy it hits. A single target cannot be hit by more than 1 glaive.<br><br>Enemies struck by a glaive receive 1 stack of the Judgment effect.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_wonder_woman/0x13001696.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Afterburn",
+            "shortDesc": "Mecha Wonder Woman rushes to the target location. She leaves a trail of scorched earth in her wake that lasts for a short time. Enemies that enter the scorched area are dealt Power Damage per second.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_wonder_woman/0x13001699.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Celerity",
+            "shortDesc": "Mecha Wonder Woman gains Attack Speed for several seconds. If a target reaches 3 stacks of Judgment during this time, Celerity's duration is increased, up to a maximum.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_wonder_woman/0x13001697.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Tempest",
+            "shortDesc": "Mecha Wonder Woman channels for a moment, blasting the battlefield in a cone in front of her and dealing Power Damage over time. During this time, Mecha Wonder Woman cannot move.<br><br>Using Tempest again will end the skill early.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_wonder_woman/0x13001694.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Implacable Judgment",
+            "shortDesc": "Mecha Wonder Woman's Basic Attacks apply stacks of Judgment. Once a target reaches 3 stacks, they are dealt Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/mecha_wonder_woman/0x13001695.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073741833?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073741833",
+        "shard": 21,
+        "description": "In his final, climatic fight with the vampiric Ra's al Ghul, Batman defeated the ancient master of the Guild of Assassins, but in the fight became a vampire himself. Initially, he was able to control the hunger and use his new abilities in his war on crime. Over time, though, his control began to slip and was shattered forever in a key battle with the Joker. In that battle he slew the Joker and drank his blood. Horrified, he asked to be staked through the heart. He was later revived, but unfortunately very little of the man who had once been Bruce Wayne remained in that resurrected creature.<br><br>Although Nightmare Batman received his curse from Ra's al Ghul, he never displays the veneer of refinement that Ra's displayed. Instead, he is a bloodthirsty creature at all times. He will strike like a wild animal, tearing and rending his prey, then feasting on what remains.",
+        "characterName": "Nightmare Batman",
+        "playStyle": "Nightmare Batman isolates his enemies with short-term Stealth and multi-target slows, and can lock vulnerable foes down for the kill with his ultimate.",
+        "alignment": "Villain",
+        "multiverse": "Nightmare",
+        "subtitle": "Vampire",
+        "attackBar": 80,
+        "healthBar": 30,
+        "powerBar": 0,
+        "difficultyBar": 40,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/vampire_batman/0x13001E4A.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/vampire_batman/0x13001E4B.png",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/vampire_batman/0x13001E4E.png",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/vampire_batman/0x13001E4D.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/vampire_batman/0x13001E4C.png"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Bruiser",
+            "shortDesc": "A Bruiser gets into the thick of fights, trying to destroy their target with close ranged attacks and powers.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6A.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Silver Batarang",
+            "shortDesc": "Nightmare Batman throws a batarang that returns to him after it reaches full range. It deals Attack Damage to the first enemy it hits. Each additional hit deals 25% less damage, down to a minimum of 25% damage.<br><br>Enemies hit lose Move Speed. This penalty stacks if the target is hit twice.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/vampire_batman/0x130000B7.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Bat Swarm",
+            "shortDesc": "Nightmare Batman enters Stealth for a short time, and his next Basic Attack of Feral Embrace will create a bat swarm at his target's feet. This swarm deals Power Damage over time to all enemies in the area.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/vampire_batman/0x130000B8.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Savagery",
+            "shortDesc": "Nightmare Batman gains Attack Damage and Move Speed for a short time. Every time he hits a target with a Basic Attack he gains Energy, and the duration is increased, up to a maximum.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/vampire_batman/0x130000B6.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Feral Embrace",
+            "shortDesc": "Nightmare Batman blinks to a target Enemy Champion and channels for a short time. During that time the target is Suppressed, and is dealt Attack Damage over time.  The duration of the effect is not reduced by Resilience.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/vampire_batman/0x130000B9.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Eternal Hunger",
+            "shortDesc": "Nightmare Batman gains Health with each Basic Attack. If he continues to attack the same target, the Health gained will increase, stacking several times.<br><br>These stacks remove after a short time without attacking, or if he attacks a different target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/vampire_batman/0x13000DBD.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073744155?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073744155",
+        "shard": 21,
+        "description": "For millennia, the vampiric Ra's al Ghul has used his Guild of Assassins to manipulate the world from the shadows. Desiring his power for herself, his daughter Talia, who was also cursed with vampirism, continually struggled to depose her father. All of her efforts frustrated, she finally found the edge she needed, a man who was potent enough to challenge the Demon’s Head: Bruce Wayne.<br>Over many years she subtly drove Batman toward her ultimate goal; the destruction of her father. However, Talia’s hopes did not rest solely on the Batman. She created a child that was the union of her and Batman. She named the boy Damien, who was the perfect union of her father's vision and her love’s potential. Initially, she trained him in secret, but eventually allowed him to apprentice as Robin with her estranged lover and this is where her plans were frustrated once more.<br>Damien witnessed Batman’s final confrontation with his grandfather, and realized how deep his mother's manipulations went. Infected by his grandfather’s disease, Damian watched Batman, a man he had grown to love and respect, become a ravening monster. The ashes of his father’s humanity kindled a steely certainty that the blood within him could only birth monsters. A young man at war with himself, as he too feels the compulsions of the vampiric curse he gained from his mother, but is determined to scourge the filth of vampirism from the world.",
+        "characterName": "Nightmare Robin",
+        "playStyle": "Nightmare Robin excels at harassing his opponent before going in for the kill.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Scourge of the Night",
+        "attackBar": 20,
+        "healthBar": 40,
+        "powerBar": 60,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_robin/0x1300238E.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_robin/0x13002392.png",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_robin/0x13002391.png",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_robin/0x13002390.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_robin/0x1300238F.png"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Assassin",
+            "shortDesc": "An Assassin works best when jumping into a situation, doing their max damage upfront, and getting out before the enemy knows what happened!",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6D.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Arcing Blades",
+            "shortDesc": "Nightmare Robin hurls his blades in an arc. They deal Attack Damage to every enemy they hit. They deal 25% less damage with each additional target, to a minimum of 25% damage. Targets in the area where the blades intersect are Knocked Down.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_robin/0x130023A6.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Impale",
+            "shortDesc": "Reset Basic Attack cooldown. Nightmare Robin's next Basic Attack will deal additional Attack Damage and Wound the target for a short time (their healing is reduced).",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_robin/0x130023A5.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Unnatural Reflexes",
+            "shortDesc": "Nightmare Robin blinks behind a target and gains Attack Speed for a few seconds. When used on an enemy Champion, he enters the Bloodlust state.<br><br>If used on a Knocked Down enemy, his Attack Speed bonus is doubled.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_robin/0x130023A2.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Feed the Beast",
+            "shortDesc": "Nightmare Robin dashes to an enemy Champion, dealing Attack Damage, plus a percent of the target's Missing Health as additional Attack Damage.<br><br>If this skill kills his target, he regains Health equal to a percentage of the target's Max Health.<br><br>Nightmare Robin is immune to Disables while using Feed the Beast.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_robin/0x130023A4.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "The Hunger",
+            "shortDesc": "Nightmare Robin takes reduced damage from Champion Basic Attacks, and gains Hunger when he uses a skill. Using Unnatural Reflexes on an enemy Champion triggers the Bloodlust state.<br><br><b>Bloodlust:</b> Nightmare Robin no longer gains Damage Reduction. Instead, he gains Move Speed, and Basic Attacks deal additional damage when attacking from behind. Hunger decays over time. When he reaches 0 Hunger, Bloodlust ends.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_robin/0x130023A3.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743808?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743808",
+        "shard": 21,
+        "description": "Without warning, dozens of Phantom Zone portals shimmered into existence across Metropolis, and moments later hundreds of 'phantoms' began pouring out. Those touched by the phantoms faded from reality, and became phantoms themselves. Desperate to halt the invasion, and needing protection from the phantoms' touch, Superman retrieved an 'ecto-suit' built by his father Jor-El, and flew into one of the portals.<br><br>Within the Phantom Zone Superman battled Aethyr, a being unknowable and incomprehensible. Those who looked upon it were driven mad. Aethyr had slumbered within the depths of the Zone for millennia, but the arrival of hundreds of Kryptonian prisoners had slowly awakened it. Enraged, Aethyr enslaved the prisoners' minds, and drove them to seek those responsible for disturbing it: The House of El. As Superman and Aethyr battled, Aethyr weakened and eventually retreated to his eon-long slumber to heal. As it retreated back into the Phantom Zone's depths, the portals it had created winked out of existence. The world saved from the phantom invasion, Superman barely escaped through one of the portals.<br><br>Superman's victory, however, was a hollow one. While he had battled Aehtyr, every living soul in Metropolis had been transformed into a phantom. Their tortured minds cried out to him, and Superman's sanity – already in tatters – snapped. His mind unhinged, he now wanders his beloved Metropolis, the 'king' of a city of phantoms.<br><br>Nightmare Superman's battle in the Phantom Zone altered him, imbuing him with Phantom Zone energy. His broken mind believes he is still protecting Metropolis, and he mistakes innocents for villains long defeated. This has led to the deaths of many souls that have crossed his path.",
+        "characterName": "Nightmare Superman",
+        "playStyle": "Nightmare Superman's control of the Phantom Zone allows him to weaken and disable his foes, dictating the flow of battle.",
+        "alignment": "Villain",
+        "multiverse": "Nightmare",
+        "subtitle": "The Phantom King",
+        "attackBar": 20,
+        "healthBar": 40,
+        "powerBar": 60,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_superman/0x13001E81.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_superman/0x13001E82.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_superman/0x13001E85.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_superman/0x13001E83.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/nightmare_superman/0x13001E84.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Controller",
+            "shortDesc": "A Controller aids their teammates by controlling the flow of battle and the movements of their enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C66.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Phantom Collector",
+            "shortDesc": "Nightmare Superman summons a phantom at a target location that flies to him, dealing Power Damage and stealing Power Armor from enemy Champions.<br><br>Upon returning to Nightmare Superman, all nearby allied Champions gain Power Armor for each enemy Champion hit for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_superman/0x13001D26.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Vortex",
+            "shortDesc": "Nightmare Superman opens a vortex. Enemies in the vortex lose Move Speed. It will close after a short time, or if the skill is used again.<br><br>When it closes, it deals Power Damage, pulls all enemies in the area towards the center, and Stuns them for a brief time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_superman/0x13001D22.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Siphon/Infuse",
+            "shortDesc": "<b>Siphon (Enemy):</b> Deal Power Damage and then grant a Shield to two allies near the target.<br><br><b>Infuse (Ally):</b> Grant a Shield, and then deal Power Damage to two enemies near the target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_superman/0x13001D23.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Condemn",
+            "shortDesc": "Nightmare Superman Suppresses an enemy Champion. On expiration the prison explodes, reducing the Move Speed of nearby enemies for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_superman/0x13001D24.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Possession",
+            "shortDesc": "Nightmare Superman gains Bonus Will.<br><br><b>Trigger</b>: Upon being defeated, Nightmare Superman possesses the enemy Champion that defeated him. They are Revealed and lose Power Armor and Attack Armor for a time. If the target is defeated while Possessed, Nightmare Superman is revived with Health equal to a percentage of the target's Max Health.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/nightmare_superman/0x13001D25.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742149?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742149",
+        "shard": 21,
+        "description": "Pamela Isley was a biologist working under a professor who used her as a test subject. These experiments gave her various plant-based powers, such as immunity to poison and infection. In addition, the experiments gave her the ability to produce pheromones that can influence the minds of men, bending them to her will. Most significantly, she gained the ability to control and mutate plant-life. Yet the experiments had their downside, as they shattered her sanity, leading her to value the lives of plants over those of humans or other creatures. However, Poison Ivy has in the past saved the lives of endangered women and children.<br><br>Poison Ivy is the ultimate femme-fatale. She uses her sexuality as a weapon, and all of her movements should be seductive and mysterious.",
+        "characterName": "Poison Ivy",
+        "playStyle": "Poison Ivy aids her team with healing and Shields while disrupting enemies with her plants. Her ultimate ability can transform the location of a fight into an asset for her team and a danger to her foes.",
+        "alignment": "Villain",
+        "multiverse": "Prime",
+        "subtitle": "Deadly Rose",
+        "attackBar": 10,
+        "healthBar": 50,
+        "powerBar": 75,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/poison_ivy/0x13001E77.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/poison_ivy/0x13001E78.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/poison_ivy/0x13001E7B.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/poison_ivy/0x13001E7A.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/poison_ivy/0x13001E79.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Controller",
+            "shortDesc": "A Controller aids their teammates by controlling the flow of battle and the movements of their enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C66.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Root Strike",
+            "shortDesc": "Poison Ivy fires a root that explodes when it reaches the target location or the skill is used again. It deals Power Damage to nearby enemies, and enemies in the center of the area are Knocked Up.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/poison_ivy/0x1300077F.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Blow Kiss",
+            "shortDesc": "Poison Ivy deals Power Damage and Blinds her target (their Basic Attacks deal reduced damage) for a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/poison_ivy/0x13000782.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Thorn Shield",
+            "shortDesc": "Poison Ivy's target gains a Shield for a few seconds. Attackers that use Basic Attacks against the Shielded ally lose Move Speed.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/poison_ivy/0x13000C5A.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Deadly Flora",
+            "shortDesc": "Poison Ivy creates a field of poisonous plants that lasts several seconds. Enemies in the area lose Move Speed, and are dealt Power Damage over time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/poison_ivy/0x13000781.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Healthy Glow",
+            "shortDesc": "After a certain number of skills are used, Poison Ivy grows a field of flowers at her location. Allies in the area regain Health over time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/poison_ivy/0x13000DBF.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743149?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743149",
+        "shard": 21,
+        "description": "Unlike Batman or previous Robins, Tim Drake's path to becoming a hero didn't start with personal tragedy. Instead, he was born with the drive to make the world a better place. Following the death of the previous Robin, Tim resolved to convince Batman to take him on. A natural detective, Tim studied Batman and his associates, and discovered that Nightwing performed a unique move that he had seen performed once before by Dick Grayson of the Flying Graysons. With Nightwing's identity revealed, Tim put the pieces together and uncovered Batman's true identity. While initially resistant to taking on a new Robin, Batman finally agreed, largely thanks to the persuasion of Nightwing. <br><br>Tim is an expert computer hacker. As a detective, he is nearly Batman's equal. Also, years of gymnastic training have made him a dangerous, acrobatic fighter. While driven, Tim still possesses a sense of humor and will crack wise in a fight.",
+        "characterName": "Robin",
+        "playStyle": "Robin is an aggressive team player, using his bo skills to stay mobile and defensive while leading the charge.  He can keep his allies healthy, increase their damage output, and knock enemies out of position.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Young Detective",
+        "attackBar": 60,
+        "healthBar": 50,
+        "powerBar": 10,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/robin/0x13001E72.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/robin/0x13001E73.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/robin/0x13001E76.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/robin/0x13001E74.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/robin/0x13001E75.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Bruiser",
+            "shortDesc": "A Bruiser gets into the thick of fights, trying to destroy their target with close ranged attacks and powers.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6A.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Vault Kick",
+            "shortDesc": "Robin dashes forward. He applies This Guy, Knocks Back, and deals Attack Damage to the first enemy he hits, and then rebounds off of his target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/robin/0x13001745.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Bo Master",
+            "shortDesc": "For several seconds, Robin gains Attack Reflection and his Basic Attack targets lose Move Speed. The Move Speed reduction can stack up to 2 times.<br><br>While Bo Master is active, Vault Kick will pass through and damage all enemies, instead of applying Knockback or This Guy!",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/robin/0x13001746.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Dynamic Duo",
+            "shortDesc": "Robin and his target gain Move Speed, Attack Lifesteal, and additional Will and Energy restoration from This Guy!<br><br>If he targets just himself, Robin gains a larger Attack Lifesteal bonus.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/robin/0x13001747.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Emergent Leader",
+            "shortDesc": "Robin spins his bo overhead, dealing Attack Damage and Knocking Back enemies in the area.<br><br>For a short time, which is increased for each enemy Champion struck, Robin grants Attack Damage and Power Damage to nearby allies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/robin/0x13001748.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "This Guy!",
+            "shortDesc": "Every few seconds, Robin's next Basic Attack will mark his target. The next Champion to damage the marked target will consume the mark, dealing additional Attack Damage to the target and regaining Will or Energy.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/robin/0x13001749.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742680?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742680",
+        "shard": 21,
+        "description": "Billy Batson was a relatively normal teenage orphan, trying to find his way without parents.  He learned ways to channel his lonely feelings, fighting against the bullies and injustice he saw in the world around him.  Then one day, the Wizard deemed him worthy of a great gift; by speaking a magic word he transforms into the powerful Shazam!  Now he is Earth's mightiest mortal while maintaining the heart of a child seeking a home.<br><br>He wields his powers like the teenager he is; reckless and confident, tempered by his kindness.  His powers allow him to channel incredible amounts of magical energy in the form of lightning, which he can use in a variety of ways.  His hands and body crackle with electricity which he is able to direct at his foes.  He can also use it to form shields to protect himself.",
+        "characterName": "Shazam",
+        "playStyle": "Shazam wants to be in the middle of the fight, disrupting and damaging the enemy team with his lightning.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Earth's Mightiest Mortal",
+        "attackBar": 10,
+        "healthBar": 85,
+        "powerBar": 45,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/shazam/0x13001E68.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/shazam/0x13001E69.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/shazam/0x13001E6C.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/shazam/0x13001E6B.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/shazam/0x13001E6A.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Enforcer",
+            "shortDesc": "An Enforcer is the first into a battle and tries to soak up as much damage for their team possible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6B.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Mystic Power",
+            "shortDesc": "Shazam fires a ball of lightning, dealing Power Damage to the first target and chaining to other nearby enemies.  If charged by Power of Zeus the first target is Stunned.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000F83.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Mystic Defense",
+            "shortDesc": "Shazam gains Attack Armor and Power Armor for a short duration. If Power of Zeus is active, Shazams Armor is multiplied.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000F84.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Lightning Field",
+            "shortDesc": "Shazam creates a lightning field for a few seconds that deals damage over time. If Power of Zeus is active he also slows enemies within the field.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000F85.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "SHAZAM!",
+            "shortDesc": "Shazam dashes to the target location and blasts the area around him, dealing between Power Damage.<br><br>While dashing, Shazam is Invincible.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000F81.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Power of Zeus",
+            "shortDesc": "After every several skill uses Shazam will gain the Power of Zeus.  In this state his next primary skill will be empowered and cost no Energy.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000F82.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743877?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743877",
+        "shard": 21,
+        "description": "Thaal Sinestro was once a Green Lantern and close friend of his fellow Lantern, Abin Sur. After the monster Atrocitus murdered Abin, Sinestro became consumed with maintaining order in his sector, no matter the cost. Eventually, his sector became a police state, with the Green Lantern symbol being seen as a symbol of fear and oppression. When Sinestro’s actions were uncovered by Hal Jordan, Sinestro was put on trial by the Guardians. During his trial, he told the Guardians they were fools to trust the power of Will to maintain order. Order could only come through fear. Found guilty, Sinestro was banished to the antimatter universe. There he met the Weaponers, who forged him a new yellow ring powered by fear. Sinestro swore to use this ring to bring order to the universe and gain revenge against the Guardians and Jordan. The powers of Sinestro’s ring are nearly identical to a Green Lantern ring, except the constructs are yellow in color. However, due to the ring being powered by fear, Sinestro has the ability to tap into and manifest the fears of his enemies.",
+        "characterName": "Sinestro",
+        "playStyle": "Sinestro is an aggressive blaster who excels at quickly dispatching weak foes.",
+        "alignment": "Villain",
+        "multiverse": "Prime",
+        "subtitle": "The Fallen Lantern",
+        "attackBar": 20,
+        "healthBar": 20,
+        "powerBar": 80,
+        "difficultyBar": 50,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/sinestro/0x130023D9.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/sinestro/0x130023DA.png",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/sinestro/0x130023DD.png",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/sinestro/0x130023DB.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/sinestro/0x130023DC.png"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Blaster",
+            "shortDesc": "A Blaster has strong Powers, often unleashing bursts of punishment on enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6C.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Saw-blade",
+            "shortDesc": "Sinestro hurls a saw-blade, dealing Power Damage to the first enemy it hits.<br><br>If the target has Yellow Impurity, they take additional Power Damage based on their Missing Health. This damage bonus has a cap against drones/creatures.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/sinestro/0x13001F75.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Dread Scythe",
+            "shortDesc": "Sinestro swings a scythe, dealing Power Damage to enemies in front of him. Targets with Yellow Impurity are also Silenced.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/sinestro/0x13001F76.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Cull the Weak",
+            "shortDesc": "Sinestro dashes to a location, dealing Power Damage to enemies in the area. Earning a kill resets Cull the Weak's cooldown.<br><br>If the target has Yellow Impurity, they are dealt additional Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/sinestro/0x13001F96.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Fear Incarnate",
+            "shortDesc": "Sinestro launches Parallax towards a location. On arrival, he inhabits the location for a short time. Enemies in the area are Feared, dealt Power Damage, and marked with Yellow Impurity.<br><br>If Parallax hits an enemy champion during flight, he will attach to that champion, and create his area of Fear around the target. The target is Stunned and takes Power Damage over a short time.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/sinestro/0x13001F77.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Yellow Impurity",
+            "shortDesc": "Each of Sinestro's skills mark their target with Yellow Impurity, granting his skills bonuses when used on marked targets.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/sinestro/0x13001F78.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743313?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743313",
+        "shard": 21,
+        "description": "President of an aerospace company, Carol Ferris hired Hal Jordan as a test pilot, and a romance between the two soon blossomed. Their relationship became more complicated when a tribe of aliens called Zamarons crowned Carol as their new Star Sapphire. Initially, the Star Sapphire ring, which allowed her to channel love's power, transformed Carol's feelings for Hal into a murderous jealousy. The couple battled many times, and though each battle ended with Carol losing the ring, it always returned to her later. She eventually learned to temper the ring's influence, and now has such control that she acts as keeper for the Predator entity, the sentient manifestation of love.<br><br>The Star Sapphire ring gives Carol the ability to fly and create energy constructs. She can also encase enemies in crystalline constructs, trapping them. Finally, the ring gives her the power to reveal and manifest the desires of any person's heart.",
+        "characterName": "Star Sapphire",
+        "playStyle": "Star Sapphire summons and controls the Predator, the Entity of Love, to devastate the battlefield and defeat her foes while threatening areas at a great distance.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Love's True Champion",
+        "attackBar": 10,
+        "healthBar": 10,
+        "powerBar": 90,
+        "difficultyBar": 90,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/star_sapphire/0x13001E63.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/star_sapphire/0x13001E64.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/star_sapphire/0x13001E67.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/star_sapphire/0x13001E66.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/star_sapphire/0x13001E65.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Blaster",
+            "shortDesc": "A Blaster has strong Powers, often unleashing bursts of punishment on enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6C.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Crystal Bomb",
+            "shortDesc": "Star Sapphire creates a crystal at the target location, and the Predator dashes to it. The crystal explodes when the Predator arrives, or after a few seconds, dealing Power Damage in an area.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/star_sapphire/0x130019F1.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Violet Harvest",
+            "shortDesc": "Star Sapphire deals Power Damage to enemies near Predator, and gains will for every Champion hit. It leaves an area that deals Power Damage over time.<br><br>The Predator dashes and reattaches to Star Sapphire when this skill is used, unless it is manifested.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/star_sapphire/0x130019EF.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Bonds of Love",
+            "shortDesc": "Fire a heart that deals Power Damage to the first enemy hit and the second enemy the heart bonds to. The first and second target can be an enemy, the crystal, or the Predator. Bonded enemies are Revealed and Crippled.<br><br>The skill can be used again to Stun the enemy targets and pull them to each other.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/star_sapphire/0x130019F2.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Manifest",
+            "shortDesc": "The Predator manifests for several seconds, and nearby enemies are Rooted for a short time. It will attack nearby enemies automatically. Activating Manifest again will order the Predator to move or attack specific targets.<br><br>While manifested, the Predator's dashes deal extra Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/star_sapphire/0x130019F0.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Glimpse of the Predator",
+            "shortDesc": "Star Sapphire has the Predator as her companion, and she can control it with her skills. She gains Move Speed when it is attached to her. When it is dashing, it deals Power Damage to enemies it hits.<br><br>The Predator automatically blinks back to her if it is too far away.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/star_sapphire/0x130019F3.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073744618?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073744618",
+        "shard": 21,
+        "description": "Unlike other heroes, the event that led to Courtney Whitmore becoming a hero wasn't tragedy. Instead, it was the breakup of her parent's marriage and her mother's remarriage to a man named Pat Dugan. She was miserable in her new life and blamed her stepfather. In Pat's belongings, she stumbled across the gear of the hero, 'The Star-Spangled Kid' and realized that Pat had once been the adult sidekick of a teenage hero. To make a mockery of Pat, she decided to wear that gear to a school dance. However, detecting someone wearing the Kid's gear, one of Kid's old enemies thought someone had taken up as the new Star-Spangled Kid and attacked the dance. Her stepfather came to Courtney's aid in a suit of mechanized battle armor he had been secretly working on and the two defeated this old foe.<br><br>Exhilarated by the battle, Courtney decided she wanted to continue on as a hero. Seeing how well she'd handled herself and how it could help them grow closer as father and daughter, Pat agreed. However, there was one condition: He would have to fight alongside her as her guardian. Amused that he would now be her sidekick, Courtney agreed and took on the shorter heroic name, 'Stargirl.'<br><br>Courtney Whitmore is an attractive and cheerful teenage girl, adoring the life she leads as a hero. Due to her young age, it is unsurprising that she can sometimes be naive about how the world works. The Cosmic Staff she wields grants her the ability to fly and can manipulate energy on a large scale, creating energy blasts and defensive shields.",
+        "characterName": "Stargirl",
+        "playStyle": "Stargirl harasses her foes with her Cosmic Staff, relying on her mobility and gravity manipulation to stay safe.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Courtney Whitmore",
+        "attackBar": 20,
+        "healthBar": 30,
+        "powerBar": 80,
+        "difficultyBar": 10,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/stargirl/0x13002B2D.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/stargirl/0x13002B31.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/stargirl/0x13002B30.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/stargirl/0x13002B2F.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/stargirl/0x13002B2E.png"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Blaster",
+            "shortDesc": "A Blaster has strong Powers, often unleashing bursts of punishment on enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6C.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Cosmic Blast",
+            "shortDesc": "Stargirl charges her cosmic staff, then unleashes a line of cosmic energy, dealing Power Damage to all enemies struck.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/stargirl/0x13002B34.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Shooting Stars",
+            "shortDesc": "Stargirl fires a slow Shooting Star at her target, marking them. Then she automatically fires 4 fast Shooting Stars towards the marked target if visible. They deal Power Damage to the first enemy struck.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/stargirl/0x13002B35.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Gravity Well",
+            "shortDesc": "Stargirl tosses a gravity well onto the ground. Enemies in the area lose Move Speed and take additional damage from all of Stargirl's skills.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/stargirl/0x13002B36.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Energy Conversion",
+            "shortDesc": "Stargirl resets the cooldown of Family Heirlooms and channels at an enemy Champion. She can move while channeling, but the skill will end if she goes too far. The target is Crippled (cannot use movement skills) and is dealt Power Damage over time.  Stargirl converts some of the damage (before armor) into a Shield, that lasts for for a few seconds after the channel ends.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/stargirl/0x13002B37.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Family Heirlooms",
+            "shortDesc": "Cosmic Blast deals additional Power Damage equal to a percentage of Current Health over time.  If Stargirl takes no damage for a few seconds, she gains Move Speed until she takes damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/stargirl/0x13002B38.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073744534?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073744534",
+        "shard": 21,
+        "description": "Star Conquerors are a nomadic race of parasitic creatures. They are made up of motherstars and probes. Motherstars are sentient, while probes are extensions of the motherstar's consciousness. These probes attach themselves to sentient creatures, allowing the motherstar to control that creature's mind. Once controlled, the victims work toward growing more motherstars that will go out and bring order to other planets by conquering them. Little did the Star Conqueror who came to be known as 'Starro' know how difficult carrying that plan out on Earth would be!<br><br>Starro has little concern for what happens to the individual creatures it controls. They are just an infinitesimally small part of the whole. When Starro speaks to creatures it doesn't control, it does so telepathically and urges them to join the harmony of the whole.",
+        "characterName": "Starro",
+        "playStyle": "Starro uses his telepathic powers to break the will of his foes, converting drones and Champions alike into his army of Slaves!",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "The Conqueror",
+        "attackBar": 20,
+        "healthBar": 40,
+        "powerBar": 60,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/starro/0x1300291C.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/starro/0x1300291D.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/starro/0x13002920.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/starro/0x1300291F.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/starro/0x1300291E.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Controller",
+            "shortDesc": "A Controller aids their teammates by controlling the flow of battle and the movements of their enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C66.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Star Shot",
+            "shortDesc": "Starro shoots a blast of energy that widens as it travels, dealing Power Damage to enemies it passes through. Enemies affected by Parasite are dealt an additional Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/starro/0x13002923.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Parasite",
+            "shortDesc": "Fire a Parasite that attaches to the first enemy hit, increasing all damage they take for a few seconds. Damage dealt by Starro resets this duration. If an enemy dies while affected by Parasite, it becomes Starro's Slave, and behaves like a drone. Enslaved Champions do not gain the special effects of their artifacts, and will expire when that enemy Champion respawns. Starro gains a Parasite every few seconds, or if he collects a fallen Parasite.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/starro/0x13002924.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Telepathic Warlord",
+            "shortDesc": "Starro focuses his telepathic powers. Enemies with Parasites are dealt Power Damage and lose Move Speed. Nearby Slaves will aggressively target enemy Champions, and gain Move Speed.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/starro/0x13002922.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Mind Control",
+            "shortDesc": "Starro channels to control an enemy Champion's mind for a few seconds, forcing them to move in sync with him and affecting them with Parasite.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/starro/0x13002925.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "The Conqueror Comes",
+            "shortDesc": "Whenever Starro creates a Slave, he regains Health. For every active Slave, Starro gains some Resilience.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/starro/0x13002926.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073743888?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073743888",
+        "shard": 21,
+        "description": "Like her cousin Kal-El, Kara Zor-El is a survivor of the destruction of Krypton, escaping in a spacecraft of her father's design. The craft put Kara into a state of suspended animation and followed the course set by her infant cousin's craft. However, instead of the trip taking a matter of seconds, like it had for her cousin, it took decades. On crash landing on Earth, Kara suffered a truly rude awakening as her powers manifested almost immediately. Wrestling with those powers, she was astonished to meet her cousin, now a grown man. The worst shock, though, was to come: Kal-El told her that they were the only survivors of Krypton. She was nearly overwhelmed by despair, and hated the alien world she was trapped on. Fortunately, Kara discovered a resilience she didn't know she possessed and is now dealing with her grief and learning to love her new home world.<br><br>As she is a Kryptonian, Supergirl possesses all the powers of Superman. However, not having grown up with those powers, and having a more fiery disposition than her cousin, Supergirl's use of those powers tend to be more forceful than Superman. However, she still possesses the same moral code of Superman and will avoid using lethal force.",
+        "characterName": "Supergirl",
+        "playStyle": "Supergirl is an agile and dangerous bruiser that excels at sticking to a target and building up to a powerful finishing attack.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Last Daughter of Krypton",
+        "attackBar": 70,
+        "healthBar": 40,
+        "powerBar": 0,
+        "difficultyBar": 60,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/supergirl/0x130021AF.png",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/supergirl/0x130021B3.png",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/supergirl/0x130021B2.png",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/supergirl/0x130021B1.png",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/supergirl/0x130021B0.png"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Bruiser",
+            "shortDesc": "A Bruiser gets into the thick of fights, trying to destroy their target with close ranged attacks and powers.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6A.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Worldbreaker",
+            "shortDesc": "Reset Basic Attack cooldown. Supergirl's next Basic Attack will deal additional Attack Damage to her target, and apply her Basic Attack to all enemies in a cone behind her target.<br><br>This does not apply Hit Effects in the cone.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/supergirl/0x130021B6.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Bounding Strike",
+            "shortDesc": "Supergirl rushes in the target direction. She deals Attack Damage to the first Champion she hits, and Knocks Down the target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/supergirl/0x130021B8.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Determination",
+            "shortDesc": "Supergirl gains Attack Armor and Move Speed for a short time.<br><br>While Determination is active, her first few Basic Attacks will each reduce the cooldown of Worldbreaker and Bounding Strike.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/supergirl/0x130021B5.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Comet",
+            "shortDesc": "Supergirl grabs her target and dashes with them. She is immune to Disables for the duration. When the dash ends, her target is dealt Attack Damage and Knocked Down.<br><br>Any enemies struck by Supergirl while she is dashing are Knocked Up.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/supergirl/0x130021B9.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Solar Furnace",
+            "shortDesc": "Basic Attacks grant Supergirl Attack Speed for a short time. This can stack sevral times. When she has full stacks, her Basic Attacks and Worldbreaker deal additional True Damage, which bypasses armor.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/supergirl/0x130021B7.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073741867?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073741867",
+        "shard": 21,
+        "description": "The infant Kal-El escaped the destruction of his home planet of Krypton in a ship built by his father, and crashed on Earth, in Kansas. His ship was found by the Kents, a childless couple. They took Kal-El, and gave him the name Clark Kent. The Kents soon discovered that Clark's unique alien physiology granted him tremendous strength and other amazing abilities. Thanks to the guidance of his adoptive Earth parents, and through recordings made by his Kryptonian birth parents, the adult Clark desires nothing more than to use his powers to benefit and inspire others. Superman values honesty and openness and has little patience for schemers and manipulators.<br><br>Since he grew up without knowing pain and is nearly invulnerable, Superman can be an intimidating force on the battlefield. He is not above striking fear into his enemies with his abilities. However, if he must choose between winning a battle and compromising what he believes is right, he will always choose to do the right thing.",
+        "characterName": "Superman",
+        "playStyle": "Superman is an imposing bruiser who excels at controlling a lane by threatening his opponents with powerful knock-backs.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Man of Steel",
+        "attackBar": 60,
+        "healthBar": 40,
+        "powerBar": 60,
+        "difficultyBar": 60,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/superman/0x13001E5E.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/superman/0x13001E5F.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/superman/0x13001E62.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/superman/0x13001E61.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/superman/0x13001E60.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Attack Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+          },
+          {
+            "roleName": "Melee",
+            "shortDesc": "This Champion's Basic Attack is melee.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+          },
+          {
+            "roleName": "Bruiser",
+            "shortDesc": "A Bruiser gets into the thick of fights, trying to destroy their target with close ranged attacks and powers.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6A.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Kryptonian Might",
+            "shortDesc": "Resets Basic Attack cooldown. Superman's next Basic Attack deals additional Attack Damage and consumes a charge.<br><br>A charge is generated periodically, up to a maximum.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/superman/0x13001BC1.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Frost Breath",
+            "shortDesc": "Superman unleashes a cone of Frost Breath. Enemies in the cone are dealt Power Damage and lose Move Speed for a short time, and targets close to Superman are Rooted.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/superman/0x13001BC2.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Heat Vision",
+            "shortDesc": "Superman fires a blast of Heat Vision at an enemy, dealing Power Damage, Knocking them back, and Revealing the target for a short time. Using Heat Vision again causes Superman to dash to the Revealed target, dealing Attack Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/superman/0x13001BC3.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Speeding Bullet",
+            "shortDesc": "Superman channels for a very short time and then flies towards target Champion, dealing Attack Damage to the first enemy Champion he hits and a smaller amount of Attack Damage to other nearby enemies. While in flight, Superman is immune to Disables. Other enemy Champions can intercept him before he reaches his target.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/superman/0x13001BC4.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Man of Steel",
+            "shortDesc": "<b>Trigger</b>: When Superman deals damage with a skill, he gains a Shield that blocks damage for short time.<BR><BR>When Superman deals damage with a skill while Man of Steel is active, his Shield grows.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/superman/0x13001BC5.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742355?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742355",
+        "shard": 21,
+        "description": "A homicidal maniac. A brutal serial-killer. A sadistic super-villain. None of these labels seems sufficient to describe the Joker. His deathly white skin and macabre grin are the results of an accidental chemical bath. The Joker's history prior to that event remain a mystery. He has told many versions of his past, and it seems likely that even he doesn't know who he once was. In fact, the doctors at Arkham Asylum suggest that his mental illness allows him to redefine his personality as he sees fit.<br><br>Yet one thing about his personality always remains constant: His obsessive fixation on the Batman.<br><br>The Joker possesses a brilliant mind, which he uses to devise horrific crimes. He is also skilled at transforming non-lethal objects into vicious weapons. He is a brutal fighter and fights without compunction. He will beat his opponent to death, if he thinks it will be sufficiently amusing.",
+        "characterName": "The Joker",
+        "playStyle": "The Joker is the king of dressing up innocent props with deadly elements and vice versa as he employs his contraptions to corral his opponents into a fatal trap.",
+        "alignment": "Villain",
+        "multiverse": "Prime",
+        "subtitle": "Clown Prince of Crime",
+        "attackBar": 10,
+        "healthBar": 10,
+        "powerBar": 100,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/joker/0x13001E90.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/joker/0x13001E91.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/joker/0x13001E94.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/joker/0x13001E92.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/joker/0x13001E93.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Blaster",
+            "shortDesc": "A Blaster has strong Powers, often unleashing bursts of punishment on enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6C.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Mr. Punchy",
+            "shortDesc": "The Joker fires a modified rocket. The first enemy hit is dealt Power Damage and Stunned.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000B0A.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Surprise!",
+            "shortDesc": "The Joker throws a present on the ground. After a short delay the present explodes, dealing Power Damage to nearby enemies, and releasing 4 Chattering Teeth. <br><br>The Teeth last for a short time, grant vision, and chase nearby enemies, prioritizing Champions. If they catch a target, they deal Power Damage, and for a few seconds the target loses Move Speed and is Revealed.<br><br>Additional Teeth on the same target deal half damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000B09.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Vanish",
+            "shortDesc": "The Joker blinks to the target location, leaving behind a punching bag that forces enemy drones and creatures to attack it for a short time or until it is destroyed.<br><br>If Mr. Punchy hits the punching bag, it will detonate, applying Mr. Punchy's Power Damage and Stun to all nearby enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000B08.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Last Laugh",
+            "shortDesc": "The Joker throws a doll. It explodes after a brief delay, dealing Power Damage to all nearby enemies and creating a cloud of laughing gas. The gas deals Power Damage over time to enemies in the area.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000B0B.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Sadist",
+            "shortDesc": "The Joker gains Power Lifesteal.<br><br>When any Champion on either team dies near the Joker, the Power Lifesteal bonus is doubled for several seconds and all of the Joker's cooldowns are reduced.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/0x13000DC0.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/champions/1073742171?shard=21&lang=en"
+          }
+        },
+        "lang": "en",
+        "gameId": "1073742171",
+        "shard": 21,
+        "description": "Zatanna Zatara is a stage magician and the daughter of another famous stage magician, Giovanni Zatara. Like her father, her tricks are not based on sleight of hand, but come from a natural ability she inherited to manipulate magic. She uses her magical abilities to solve mystical crimes and foil incursions by otherworldly forces. In addition, she is a reserve member of the Justice League and aids them in fighting magical threats.<br><br>Zatanna focuses her almost limitless magical powers by saying what she wants to accomplish backwards. For instance, if she wished a lock to open, she would say, 'Kcol Nepo!' Through not being specific enough, her spells have at times come with terrible and unforeseen consequences. Due to these consequences, Zatanna has spent years training herself to use her powers wisely and avoid unintentionally unleashing evils greater than those she combats.",
+        "characterName": "Zatanna",
+        "playStyle": "Zatanna's magic gives her the versatility to help her allies or harm her foes, and her ultimate can neutralize any threat on the enemy team for a significant period of time.",
+        "alignment": "Hero",
+        "multiverse": "Prime",
+        "subtitle": "Showstopper",
+        "attackBar": 5,
+        "healthBar": 15,
+        "powerBar": 90,
+        "difficultyBar": 70,
+        "images": {
+          "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/zatanna/0x13001E36.jpg",
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/zatanna/0x13001E37.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/zatanna/0x13001E3A.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/zatanna/0x13001E39.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/zatanna/0x13001E38.jpg"
+        },
+        "roles": [
+          {
+            "roleName": "Power Damage Champion",
+            "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Power Damage.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC8.png"
+          },
+          {
+            "roleName": "Ranged",
+            "shortDesc": "This Champion's Basic Attack is ranged.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C68.png"
+          },
+          {
+            "roleName": "Controller",
+            "shortDesc": "A Controller aids their teammates by controlling the flow of battle and the movements of their enemies.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C66.png"
+          }
+        ],
+        "skills": [
+          {
+            "skillName": "Skewer",
+            "shortDesc": "Zatanna summons magical swords, and after a short delay they deal Power Damage to enemies in an area.<br><br>If Skewer hits a target with the Punish or Protect on them, the effect will detonate early.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/zatanna/0x13000A56.png",
+            "slotName": "q",
+            "slotId": 1
+          },
+          {
+            "skillName": "Dash / Dazzle",
+            "shortDesc": "<b>Allied Champion:</b>  The target gains Move Speed, which diminishes over a few seconds.<br><br><b>Enemy Champion:</b> The target loses Move Speed, which diminishes over a few seconds.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/zatanna/0x13000A58.png",
+            "slotName": "w",
+            "slotId": 2
+          },
+          {
+            "skillName": "Protect / Punish",
+            "shortDesc": "<b>Allied Target:</b> The target gains a Shield that blocks damage. After a few seconds the target is healed for a percentage of the remaining Shield, and nearby allies for half that amount.<br><br><b>Enemy Target:</b> Reduce the target's healing. After a short time, the target explodes and deals Power Damage to themselves and other enemies nearby. When detonated by Skewer, damage is doubled.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/zatanna/0x13000A57.png",
+            "slotName": "e",
+            "slotId": 3
+          },
+          {
+            "skillName": "Be a Rabbit",
+            "shortDesc": "Zatanna transforms an enemy Champion into a rabbit for a short time. The target loses Power Armor and Attack Armor, and their armor cannot be changed until they transform back. The rabbit cannot attack or use skills.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/zatanna/0x13000A59.png",
+            "slotName": "r",
+            "slotId": 4
+          },
+          {
+            "skillName": "Stage Presence",
+            "shortDesc": "Zatanna has additional Will Regen, and nearby allies gain Power Armor.",
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/zatanna/0x13000DBC.png",
+            "slotName": "Passive",
+            "slotId": 5
+          }
+        ]
+      }
+    ]
+  },
+  "shard": 21,
+  "lang": "en",
+  "count": 32
+}

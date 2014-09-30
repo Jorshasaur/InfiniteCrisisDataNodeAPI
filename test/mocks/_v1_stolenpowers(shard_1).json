@@ -1,0 +1,843 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/stolenpowers?shard=1&lang=en"
+    }
+  },
+  "_embedded": {
+    "stolenpowers": [
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961875?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Aquaman's Super Strength",
+        "gameId": "1207961875",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002084.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002087.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002085.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002086.jpg"
+        },
+        "description": "Aquaman's Super Strength grants your Champion Move Speed after throwing an Environmental Object.<br><br><b>Large Object:</b> Throws the object, dealing Attack Damage and Slowing enemies in an area, and gain Move Speed for a few seconds.<br><b>Small Object:</b> Throws the object in a line, dealing Attack Damage to the first enemy it hits, Knocking them up, and your Champion gains Move Speed for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961705?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Arcane Green Lantern's Healing Wave",
+        "gameId": "1207961705",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BB.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BE.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BC.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BD.jpg"
+        },
+        "description": "Arcane Green Lantern's Healing Wave grants increased Power Armor and Attack Armor to you and nearby allies.<br><br>Heal yourself and nearby allies.  Further Healing Waves within a few seconds will have their effectiveness reduced. You and nearby allies also gain Power Armor and Attack Armor for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961621?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Atomic Green Lantern's Consume",
+        "gameId": "1207961621",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CF.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020D2.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020D0.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020D1.jpg"
+        },
+        "description": "Atomic Green Lantern's Consume increases your Champion's Move Speed.<br><br>Deal True Damage to target enemy drone or creature and you are healed and gain Move Speed for a few seconds.  Environmental objects can also be targeted and are destroyed after healing you."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207963169?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Atomic Joker's Detonate",
+        "gameId": "1207963169",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E2.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E5.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E3.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E4.jpg"
+        },
+        "description": "Atomic Joker's Detonate has a shorter cooldown.<br><br>Deal Power Damage to all Champions and drones near target enemy drone, creature, or Environmental Object. Creatures in the area (including the one targeted) are dealt True Damage instead and Environmental objects are destroyed."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961743?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Atomic Poison Ivy's X-Ray Vision",
+        "gameId": "1207961743",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205C.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205F.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205D.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205E.jpg"
+        },
+        "description": "Atomic Poison Ivy's X-Ray Vision has a reduced cooldown.<br><br>For a few seconds your Champion has increased vision range, can see enemies in Stealth or in Stealth Pads, and can see through walls."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961704?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Atomic Wonder Woman's Super Speed",
+        "gameId": "1207961704",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002093.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002096.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002094.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002095.jpg"
+        },
+        "description": "Atomic Wonder Woman's Super Speed allows your Champion to deal Attack Damage to enemies they pass through.<br><br>Gain Move Speed and the abiltiy to move through enemies, dealing Attack Damage each time you pass through them."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962920?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Atrocitus' Meteor Drop",
+        "gameId": "1207962920",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002796.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002799.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002797.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002798.jpg"
+        },
+        "description": "Atrocitus' Meteor Drop Slows enemies struck.<br><br>Drop a meteor on the target location, dealing Power Damage in an area around it.  The meteor persists for a few seconds as a Small Environmental Object."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961604?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Batman's Trap",
+        "gameId": "1207961604",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002066.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002069.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002067.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002068.jpg"
+        },
+        "description": "Batman's Trap Reveals and Roots enemies for a longer duration.<br><br>Gain charges that are spent to place Traps (a few seconds to prime) that last for some time and are triggered by the next enemy Champion to step on them.  They will be Rooted and Revealed for a few seconds.  Multiple Traps may be on the battlefield at once.  You regenerate new charges over time or by returning to base."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962252?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Blue Beetle's X-Ray Vision",
+        "gameId": "1207962252",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002493.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002496.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002494.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002495.jpg"
+        },
+        "description": "Whenever you destroy a Surveillance Camera, Blue Beetle's X-Ray Vision grants Credits and its cooldown is reduced.<br><br>For a short time your Champion has increased vision range, can see enemies in Stealth or in Stealth Pads, and can see through walls."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961610?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Catwoman's Teleport",
+        "gameId": "1207961610",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002070.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002073.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002071.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002072.jpg"
+        },
+        "description": "Target an allied Turret, Surveillance Camera, drone, or control point (if uncontested) to blink to it after channeling for a short time. Cooldown is reduced if teleporting to a Turret or control point. Channeling will be cancelled if the Champion moves or takes damage."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960942?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Consume",
+        "gameId": "1207960942",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Deal True Damage to target enemy drone or creature and you are healed. Environmental objects can also be targeted and are destroyed after healing you."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961703?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Cyborg's Teleport",
+        "gameId": "1207961703",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206B.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206E.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206C.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206D.jpg"
+        },
+        "description": "Cyborg's Teleport has a faster teleport time.<br><br>Target an allied Turret, Surveillance Camera, drone, or control point (if uncontested) to blink to it after channeling for a short time. Cooldown is reduced if teleporting to a Turret or control point. Channeling will be cancelled if the Champion moves or takes damage."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960927?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Detonate",
+        "gameId": "1207960927",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Deal Power Damage to all Champions and drones near target enemy drone, creature, or Environmental Object. Creatures in the area (including the one targeted) are dealt True Damage instead and Environmental Objects are destroyed."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961619?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Doomsday's Invulnerability",
+        "gameId": "1207961619",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B1.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B4.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B2.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B3.jpg"
+        },
+        "description": "Doomsday's Invulnerability provides a stronger Shield. Gain a Shield that blocks damage for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961607?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Flash's Super Speed",
+        "gameId": "1207961607",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002089.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x1300208C.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x1300208A.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x1300208B.jpg"
+        },
+        "description": "Flash's Super Speed allows your Champion to move even faster.<br><br>Gain Move Speed and move through enemies for the next a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961608?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Gaslight Batman's Surveillance Camera",
+        "gameId": "1207961608",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207A.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207D.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207B.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207C.jpg"
+        },
+        "description": "Gaslight Batman's Surveillance Camera has increased sight distance.<br><br>Gain charges that are spent to place Stealthed Surveillance Cameras that grant vision in an area around them for a few seconds.  A limitied number of Surveillance Cameras may be on the battlefield at once.  Charges are refilled automatically upon returning to base."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961684?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Gaslight Catwoman's X-Ray Vision",
+        "gameId": "1207961684",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002057.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205A.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002058.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002059.jpg"
+        },
+        "description": "Gaslight Catwoman's X-Ray Vision grants a longer sight distance.<br><br>For a short time your Champion has increased vision range, can see enemies in Stealth or in Stealth Pads, and can see through barriers."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961699?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Gaslight Joker's Meteor Drop",
+        "gameId": "1207961699",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A7.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020AA.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A8.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A9.jpg"
+        },
+        "description": "Gaslight Joker's Meteor Drop applies Wounding to targets in the area.<br><br>Drop a meteor on the target location, dealing Power Damage in an area around it, and applying Wounding (-50% healing recieved) for a few seconds.  The meteor persists for a few seconds as a Small Environmental Object."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962275?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Green Arrow's Surveillance Camera",
+        "gameId": "1207962275",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023CF.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023D2.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023D0.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023D1.jpg"
+        },
+        "description": "Green Arrow's Surveillance Camera can see through Stealth for a few seconds, but has one less charge.<br><br>Gain charges that are spent to place Stealthed Surveillance Cameras that grant vision in an area around them and can see through Stealth for a few seconds. A limitied number of Surveillance Cameras may be on the battlefield at once.  Charges are refilled automatically upon returning to base."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961695?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Green Lantern's Meteor Drop",
+        "gameId": "1207961695",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A2.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A5.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A3.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A4.jpg"
+        },
+        "description": "Green Lantern's Meteor Drop deals additional damage based on Power Damage.<br><br>Drop a meteor on the target location, dealing Power Damage in an area around it.  The meteor persists for a few seconds as a Small Environmental Object."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961714?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Harley Quinn's Detonate",
+        "gameId": "1207961714",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C5.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C8.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C6.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C7.jpg"
+        },
+        "description": "Harley Quinn's Detonate deals additional damage based on Power Damage.<br><br>Deal Power Damage to all Champions and drones near target enemy drone, creature, or Environmental Object. Creatures in the area (including the one targeted) are dealt True Damage instead and Environmental objects are destroyed."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961512?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Healing Wave",
+        "gameId": "1207961512",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Heal yourself and nearby allies.  Further Healing Waves within a few seconds will have their effectiveness reduced."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961472?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Invulnerability",
+        "gameId": "1207961472",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Gain a Shield that blocks damage for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962175?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Mecha Superman's Consume",
+        "gameId": "1207962175",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C2.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C5.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C3.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C4.jpg"
+        },
+        "description": "Mecha Superman's Consume restores more Health based on your bonus health.<br><br>Deal True Damage to target enemy drone or creature and you are healed.  Environmental objects can also be targeted and are destroyed after healing you."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961708?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Mecha Wonder Woman's Trap",
+        "gameId": "1207961708",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002061.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002064.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002062.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002063.jpg"
+        },
+        "description": "Mecha Wonder Woman's Trap primes faster.<br><br>Gain charges that are spent to place Traps (a few seconds to prime) that last for some time and are triggered by the next enemy Champion to step on them. They will be Rooted and Revealed for a few seconds.  Multiple Traps may be on the battlefield at once.  You regenerate new charges over time or by returning to base."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960994?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Meteor Drop",
+        "gameId": "1207960994",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Drop a meteor on target location, dealing Power Damage in an area around it.  The meteor persists for a few seconds as a Small Environmental Object."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961665?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Nightmare Batman's Consume",
+        "gameId": "1207961665",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CA.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CD.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CB.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CC.jpg"
+        },
+        "description": "Nightmare Batman's Consume restores additional Health.<br><br>Deal True Damage to target enemy drone or creature and you are healed.  Environmental objects can also be targeted and are destroyed after healing you."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962946?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Nightmare Robin's X-Ray Vision",
+        "gameId": "1207962946",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270B.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270E.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270C.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270D.jpg"
+        },
+        "description": "Nightmare Robin's X-Ray Vision grants bonus critical chance for the duration of the X-Ray Vision.<br><br>For a short time your Champion has increased vision range, can see enemies in Stealth or in Stealth Pads, can see through walls, and gains Bonus Damage."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962255?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Nightmare Superman's Teleport",
+        "gameId": "1207962255",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300248D.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300248E.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300248F.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002490.jpg"
+        },
+        "description": "Nightmare Superman's Teleport provides a Power Damage increase after a successful teleport.<br><br>Target an allied Turret, Surveillance Camera, drone, or control point (if uncontested) to blink to it after channeling for a short time. Cooldown is reduced if teleporting to a Turret or control point. Channeling will be cancelled if the Champion moves or takes damage."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961670?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Poison Ivy's Healing Wave",
+        "gameId": "1207961670",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B6.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B9.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B7.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B8.jpg"
+        },
+        "description": "Poison Ivy's Healing Wave grants increased Attack Damage and Power Damage to you and nearby Champions.<br><br>Heal yourself and nearby allies.  Further Healing Waves within a few seconds will have their effectiveness reduced. You and nearby Champions also gain Attack Damage and Power Damage for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961477?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Psychic Assault",
+        "gameId": "1207961477",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Target enemy Champion loses Move Speed for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961718?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Robin's Surveillance Camera",
+        "gameId": "1207961718",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002075.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002078.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002076.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002077.jpg"
+        },
+        "description": "Robin's Surveillance Camera has two additional charges.<br><br>Gain charges that are spent to place Stealthed Surveillance Cameras that grant vision in an area around them for a few seconds.  A limitied number of Surveillance Cameras may be on the battlefield at once.  Charges are refilled automatically upon returning to base."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961614?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Shazam's Invulnerability",
+        "gameId": "1207961614",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AC.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AF.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AD.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AE.jpg"
+        },
+        "description": "Shazam's Invulnerability restores health as long as the Shield is active.<br><br>Gain a Shield that blocks damage for a few seconds.  As long as the Shield remains active, you will be healed."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962610?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Sinestro's Psychic Assault",
+        "gameId": "1207962610",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023C7.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023CA.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023C8.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023C9.jpg"
+        },
+        "description": "Sinestro's Psychic Assault reduces Power Armor as well as Slowing.<br><br>Target enemy Champion loses Move Speed for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962094?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Star Sapphire's Psychic Assault",
+        "gameId": "1207962094",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209D.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130020A0.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209E.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209F.jpg"
+        },
+        "description": "Star Sapphire's Psychic Assault reduces incoming healing as well as Slowing.<br><br>Target enemy Champion loses Move Speed for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960873?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Super Speed",
+        "gameId": "1207960873",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Your Champion gains Move Speed and may move through enemy Champions for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960523?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Super Strength",
+        "gameId": "1207960523",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Super Strength allows your Champion to pick up and throw Environmental Objects.<br><br><b>Large Object:</b> Throws the object, dealing Attack Damage to enemies in an area. All targets hit also lose Move Speed.<br><b>Small Object:</b> Throws the object in a line, dealing Attack Damage to the first enemy it hits, and Knocking them up."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962924?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Supergirl's Invulnerability",
+        "gameId": "1207962924",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F5.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F8.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F6.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F7.jpg"
+        },
+        "description": "Supergirl's Invulnerability grants bonus <font color='#ff9900'>Attack Damage</font> as long as the Shield is active.<br><br>Gain a Shield that blocks damage for a few seconds.  As long as the Shield remains active, you will be granted bonus <font color='#ff9900'>Attack Damage</font>."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962171?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Superman's Super Strength",
+        "gameId": "1207962171",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D3.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D4.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D5.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D6.jpg"
+        },
+        "description": "Superman's Super Strength grants your Champion Attack Damage while Super Strength is on Cooldown.<br><br><b>Large Object:</b> Throws the object, dealing Attack Damage and Slowing enemies in an area.<br><b>Small Object:</b> Throws the object in a line, dealing Attack Damage to the first enemy it hits, and Knocking them up."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960867?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Surveillance Camera",
+        "gameId": "1207960867",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Gain charges that are spent to place Stealthed Surveillance Cameras that grant vision in an area around them for a few seconds.  A limitied number of Surveillance Cameras may be on the battlefield at once.  Charges are refilled automatically upon returning to base."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961609?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Teleport",
+        "gameId": "1207961609",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Target an allied Turret, Surveillance Camera, drone, or control point (if uncontested) to blink to it after channeling for a short time. Cooldown is reduced if teleporting to a Turret or control point. Channeling will be cancelled if the Champion moves or takes damage."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961612?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "The Joker's Detonate",
+        "gameId": "1207961612",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C0.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C3.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C1.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C2.jpg"
+        },
+        "description": "The Joker's Detonate reduces the Move Speed of all enemies damaged.<br><br>Deal Power Damage to all Champions near target enemy drone, creature, or Environmental Object. Drones and creatures in the area (including the one targeted) are dealt True Damage and Environmental Objects are destroyed.  All targets hit also lose Move Speed for a few seconds."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961516?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Trap",
+        "gameId": "1207961516",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Gain charges that are spent to place Traps (a few seconds to prime) that last for some time and are triggered by the next enemy Champion to step on them.  They will be Rooted and Revealed for a few seconds.  Multiple Traps may be on the battlefield at once.  You regenerate new charges over time or by returning to base."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961629?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Wonder Woman's Super Strength",
+        "gameId": "1207961629",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x1300207F.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002082.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002080.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002081.jpg"
+        },
+        "description": "Wonder Woman's Super Strength allows your Champion to pick up and throw Environmental Objects even farther.<br><br><b>Large Object:</b> Throws the object at 200 longer range, dealing Attack Damage and Slowing enemies in the area.<br><b>Small Object:</b> Throws the object in a line at 200 longer range, dealing Attack Damage to the first enemy it hits, and Knocking them up."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960905?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "X-Ray Vision",
+        "gameId": "1207960905",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "For a short time your Champion has increased vision range, can see enemies in Stealth or in Stealth Pads, and can see through walls."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961682?shard=1&lang=en"
+          }
+        },
+        "lang": "en",
+        "name": "Zatanna's Psychic Assault",
+        "gameId": "1207961682",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x13002098.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209B.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x13002099.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209A.jpg"
+        },
+        "description": "Zatanna's Psychic Assault applies a stronger Slow and lasts longer.<br><br>Target enemy Champion loses Move Speed for a few seconds."
+      }
+    ]
+  },
+  "shard": 1,
+  "lang": "en",
+  "count": 46
+}

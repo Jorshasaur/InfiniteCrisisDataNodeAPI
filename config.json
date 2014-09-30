@@ -1,0 +1,128 @@
+{
+  "regions":{
+    "na":"http://api-na.infinitecrisis.com",
+    "eu":"http://api-eu.infinitecrisis.com"
+  },
+  "endpoints":[
+    {
+      "getChampionsV1":
+      {
+        "url": "/v1/champions",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    },
+    {
+      "getChampionV1":
+      {
+        "url": "/v1/champions/:championId",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    },
+    {
+      "getArtifactsV1":
+      {
+        "url": "/v1/artifacts",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    },
+    {
+      "getArtifactV1":
+      {
+        "url": "/v1/artifacts/:artifactId",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    },
+    {
+      "getShardsV1":
+      {
+        "url": "/v1/shards",
+        "params":
+        []
+      }
+    },
+    {
+      "getShardV1":
+      {
+        "url": "/v1/shards/:shardId",
+        "params":
+        []
+      }
+    },
+    {
+      "getAchievementsV1":
+      {
+        "url": "/v1/achievements",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    },
+    {
+      "getAchievementV1":
+      {
+        "url": "/v1/achievements/:achievementId",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    },
+    {
+      "getStolenPowersV1":
+      {
+        "url": "/v1/stolenpowers",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    },
+    {
+      "getStolenPowerV1":
+      {
+        "url": "/v1/stolenpowers/:stolenpowerId",
+        "params":
+        [
+          {
+            "type":"shard",
+            "required": "true"
+          }
+        ]
+      }
+    }
+  ]
+}

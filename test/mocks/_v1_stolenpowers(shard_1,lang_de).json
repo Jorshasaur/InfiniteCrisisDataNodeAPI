@@ -1,0 +1,843 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/stolenpowers?shard=1&lang=de"
+    }
+  },
+  "_embedded": {
+    "stolenpowers": [
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961875?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Aquaman: Superkraft",
+        "gameId": "1207961875",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002084.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002087.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002085.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002086.jpg"
+        },
+        "description": "„Aquaman: Superkraft“ verschafft deinem Champion nach dem Werfen eines Umgebungsobjekts mehr Lauftempo.<br><br><b>Großes Umgebungsobjekt:</b> Du wirfst ein Objekt und Gegner im Zielbereich erleiden Angriffsschaden und werden „verlangsamt“. Dein Champion bekommt für einige Sekunden mehr Lauftempo.<br><b>Kleines Umgebungsobjekt:</b> Du wirfst ein Objekt und fügst dem ersten Ziel in der Wurfrichtung Angriffsschaden zu und „wirbelst“ es „hoch“. Dein Champion bekommt für einige Sekunden mehr Lauftempo."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961705?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Arcane Green Lantern: Heilungswelle",
+        "gameId": "1207961705",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BB.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BE.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BC.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020BD.jpg"
+        },
+        "description": "„Arcane Green Lantern: Heilungswelle“ verschafft dir und deinen Teammitgliedern in der Nähe zusätzliche Power-Abwehr und Angriffsabwehr.<br><br>Heile dich selbst und deine Teammitglieder in der Nähe. Weitere Heilungswellen innerhalb der nächsten Sekunden haben eine reduzierte Heilung. Du und deine Teammitglieder erhalten außerdem einige Sekunden lang zusätzliche Power-Abwehr und Angriffsabwehr."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961621?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Atomic Green Lantern: Konsumieren",
+        "gameId": "1207961621",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CF.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020D2.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020D0.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020D1.jpg"
+        },
+        "description": "„Atomic Green Lantern: Konsumieren“ erhöht das Lauftempo deines Champions.<br><br>Du fügst gegnerischen Drohnen oder Monstern puren Schaden zu und wirst geheilt. Umgebungsobjekte können ebenfalls konsumiert werden. Nachdem sie dich geheilt haben, werden sie zerstört."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207963169?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Atomic Joker: Detonieren",
+        "gameId": "1207963169",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E2.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E5.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E3.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130028E4.jpg"
+        },
+        "description": "„Atomic Joker: Detonieren“ hat eine kürzere Abklingzeit.<br><br>Füge allen gegnerischen Champions und Drohnen in der Nähe eines anvisierten Zieles, das eine gegnerische Drohne, ein Monster oder Umgebungsobjekt sein kann, Power-Schaden zu. Alle Monster in der Umgebung (einschließlich des ursprünglichen Ziels) erleiden stattdessen puren Schaden und Umgebungsobjekte werden zerstört."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961743?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Atomic Poison Ivy: Röntgenblick",
+        "gameId": "1207961743",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205C.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205F.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205D.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205E.jpg"
+        },
+        "description": "„Atomic Poison Ivy: Röntgenblick“ hat eine kürzere Abklingzeit.<br><br>Für einige Sekunden hat dein Champion ein erweitertes Sichtfeld, kann durch Wände hindurchblicken und „getarnte Gegner“ oder Gegner in Tarnfeldern sehen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961704?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Atomic Wonder Woman: Turbogeschwindigkeit",
+        "gameId": "1207961704",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002093.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002096.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002094.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002095.jpg"
+        },
+        "description": "„Atomic Wonder Woman: Turbogeschwindigkeit“ fügt gegnerischen Champions Angriffsschaden zu, während du dich durch sie hindurchbewegst.<br><br>Du bekommst mehr Lauftempo und kannst dich einige Sekunden lang durch gegnerische Champions hindurchbewegen. Dabei fügst du ihnen Angriffsschaden zu."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962920?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Atrocitus: Meteoriteneinschlag",
+        "gameId": "1207962920",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002796.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002799.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002797.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x13002798.jpg"
+        },
+        "description": "„Atrocitus: Meteoriteneinschlag“ belegt getroffene Gegner mit dem Effekt „Verlangsamt“.<br><br>Lasse einen Meteoriten auf der Erde einschlagen und teile an seinem Zielort Power-Schaden aus. Getroffene Gegner werden „verlangsamt“ und verlieren einige Sekunden lang Lauftempo. Der Meteorit bleibt einige Sekunden lang als kleines Umgebungsobjekt liegen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961604?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Batman: Falle",
+        "gameId": "1207961604",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002066.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002069.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002067.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002068.jpg"
+        },
+        "description": "„Batman: Falle“ enttarnt und macht Gegner für einen längeren Zeitraum „bewegungsunfähig“.<br><br>Du bekommst mehrere Ladungen, mit denen du Fallen auslegen kannst. Es dauert einige Sekunden nach der Platzierung, bis eine Falle für eine kurze Zeit scharf ist. Gefangene gegnerische Champions sind für einige Sekunden „bewegungsunfähig“ und werden „enttarnt“. Du kannst nur eine bestimme Anzahl Fallen gleichzeitig auf der Map platzieren. Deine Ladungen erneuern sich über Zeit oder wenn du zur Basis zurückkehrst."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962252?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Blue Beetle: Röntgenblick",
+        "gameId": "1207962252",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002493.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002496.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002494.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002495.jpg"
+        },
+        "description": "Wenn du eine gegnerische Überwachungskamera zerstörst, verschafft dir „Blue Beetle: Röntgenblick“ Credits und ihre Abklingzeit verkürzt sich. Für einige Sekunden hat dein Champion ein erweitertes Sichtfeld, kann durch Wände hindurchblicken und „getarnte“ Gegner oder Gegner in Tarnfeldern sehen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961610?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Catwoman: Teleport",
+        "gameId": "1207961610",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002070.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002073.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002071.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002072.jpg"
+        },
+        "description": "Wähle eine Überwachungskamera, Drohne, einen Turm oder nicht umkämpften Kontrollpunkt deines Teams aus. Nach kurzer Kanalisierung wirst du unmittelbar zum anvisierten Ziel teleportiert. Wenn du dich zu einem Turm oder Kontrollpunkt teleportierst, verkürzt sich die Abklingzeit. Die Kanalisierung wird unterbrochen, wenn dein Champion sich bewegt oder Schaden erleidet."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961703?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Cyborg: Teleport",
+        "gameId": "1207961703",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206B.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206E.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206C.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300206D.jpg"
+        },
+        "description": "„Cyborg: Teleport“ teleportiert deinen Champion schneller.<br><br>Wähle eine Überwachungskamera, Drohne, einen Turm oder nicht umkämpften Kontrollpunkt deines Teams aus. Nach kurzer Kanalisierung wirst du unmittelbar zum anvisierten Ziel teleportiert. Wenn du dich zu einem Turm oder Kontrollpunkt teleportierst, verkürzt sich die Abklingzeit. Die Kanalisierung wird unterbrochen, wenn dein Champion sich bewegt oder Schaden erleidet."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961612?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Der Joker: Detonieren",
+        "gameId": "1207961612",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C0.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C3.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C1.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C2.jpg"
+        },
+        "description": "„Der Joker: Detonieren“ verringert das Lauftempo von allen Gegnern, die Schaden erlitten haben.<br><br>Füge allen gegnerischen Champions und Drohnen in der Nähe eines anvisierten Zieles, das eine gegnerische Drohne, ein Monster oder Umgebungsobjekt sein kann, Power-Schaden zu. Alle Monster in der Umgebung (einschließlich des ursprünglichen Ziels) erleiden stattdessen puren Schaden und Umgebungsobjekte werden zerstört. Zusätzlich verlieren alle getroffenen Ziele für einige Sekunden Lauftempo."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960927?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Detonieren",
+        "gameId": "1207960927",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Füge allen gegnerischen Champions und Drohnen in der Nähe eines anvisierten Zieles, das eine gegnerische Drohne, ein Monster oder Umgebungsobjekt sein kann, Power-Schaden zu. Alle Drohnen und Monster in der Umgebung (einschließlich des ursprünglichen Ziels) erleiden stattdessen puren Schaden und Umgebungsobjekte werden zerstört."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961619?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Doomsday: Unverwundbarkeit",
+        "gameId": "1207961619",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B1.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B4.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B2.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020B3.jpg"
+        },
+        "description": "„Doomsday: Unverwundbarkeit“ verschafft dir einen stärkeren Schild. Du bekommst einen Schild, der für einige Sekunden Schaden abblockt."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961516?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Falle",
+        "gameId": "1207961516",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Du bekommst mehrere Ladungen, mit denen du Fallen auslegen kannst. Es dauert einige Sekunden nach der Platzierung, bis eine Falle für eine kurze Zeit scharf ist. Gefangene gegnerische Champions sind für einige Sekunden „bewegungsunfähig“ und werden „enttarnt“. Du kannst nur eine bestimme Anzahl Fallen gleichzeitig auf der Map platzieren. Deine Ladungen erneuern sich über Zeit oder wenn du zur Basis zurückkehrst."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961607?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Flash: Turbogeschwindigkeit",
+        "gameId": "1207961607",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x13002089.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x1300208C.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x1300208A.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_speed/0x1300208B.jpg"
+        },
+        "description": "„Flash: Turbogeschwindigkeit“ macht deinen Champion noch schneller.<br><br>Du bekommst mehr Lauftempo und kannst dich einige Sekunden lang durch gegnerische Champions hindurchbewegen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961608?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Gaslight Batman: Überwachungskamera",
+        "gameId": "1207961608",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207A.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207D.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207B.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x1300207C.jpg"
+        },
+        "description": "„Gaslight Batman: Überwachungskamera“ hat ein erweitertes Sichtfeld.<br><br>Du bekommst mehrere Ladungen, mit denen du getarnte Überwachungskameras platzieren kannst, die in ihrer Umgebung für einige Sekunden dein Sichtfeld erweitern. Nur eine bestimmte Anzahl Überwachungskameras können gleichzeitig auf der Map platziert werden. Wenn du zur Basis zurückkehrst, erneuern sich die Ladungen automatisch."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961684?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Gaslight Catwoman: Röntgenblick",
+        "gameId": "1207961684",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002057.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300205A.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002058.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x13002059.jpg"
+        },
+        "description": "„Gaslight Catwoman: Röntgenblick“ hat ein erweitertes Sichtfeld. Für einige Sekunden hat dein Champion ein erweitertes Sichtfeld, kann durch Wände hindurchblicken und „getarnte“ Gegner oder Gegner in Tarnfeldern sehen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961699?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Gaslight Joker: Meteoriteneinschlag",
+        "gameId": "1207961699",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A7.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020AA.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A8.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A9.jpg"
+        },
+        "description": "„Gaslight Joker: Meteoriteneinschlag“ belegt Ziele im Wirkungsbereich mit dem Effekt „Verwundet“.<br><br>Lasse einen Meteoriten auf der Erde einschlagen und teile an seinem Zielort Power-Schaden aus. „Verwundet“ reduziert einige Sekunden lang die Heilung getroffener Gegner um 50 %. Der Meteorit bleibt einige Sekunden lang als kleines Umgebungsobjekt liegen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962275?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Green Arrow: Überwachungskamera",
+        "gameId": "1207962275",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023CF.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023D2.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023D0.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x130023D1.jpg"
+        },
+        "description": "„Green Arrow: Überwachungskamera“ macht getarnte Ziele für einige Sekunden sichtbar, hat aber eine Ladung weniger.<br><br>Du bekommst mehrere Ladungen, mit denen du getarnte Überwachungskameras platzieren kannst, die in ihrer Umgebung für einige Sekunden dein Sichtfeld erweitern und getarnte Ziele für einige Sekunden sichtbar machen. Nur eine bestimmte Anzahl Überwachungskameras können gleichzeitig auf der Map platziert werden. Wenn du zur Basis zurückkehrst, erneuern sich die Ladungen automatisch."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961695?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Green Lantern: Meteoriteneinschlag",
+        "gameId": "1207961695",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A2.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A5.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A3.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/meteor_drop/0x130020A4.jpg"
+        },
+        "description": "„Green Lantern: Meteoriteneinschlag“ teilt basierend auf Power-Schaden zusätzlichen Schaden aus.<br><br>Lasse einen Meteoriten auf der Erde einschlagen und teile an seinem Zielort Power-Schaden aus. Der Meteorit bleibt einige Sekunden lang als kleines Umgebungsobjekt liegen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961714?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Harley Quinn: Detonieren",
+        "gameId": "1207961714",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C5.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C8.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C6.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/detonate/0x130020C7.jpg"
+        },
+        "description": "„Harley Quinn: Detonieren“ teilt auf Power-Schaden basierend zusätzlichen Schaden aus.<br><br>Füge allen gegnerischen Champions und Drohnen in der Nähe eines anvisierten Zieles, das eine gegnerische Drohne, ein Monster oder Umgebungsobjekt sein kann, Power-Schaden zu. Alle Monster in der Umgebung (einschließlich des ursprünglichen Ziels) erleiden stattdessen puren Schaden und Umgebungsobjekte werden zerstört."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961512?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Heilungswelle",
+        "gameId": "1207961512",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Heile dich selbst und deine Teammitglieder in der Nähe. Weitere Heilungswellen innerhalb der nächsten Sekunden haben eine reduzierte Heilung."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960942?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Konsumieren",
+        "gameId": "1207960942",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Du fügst gegnerischen Drohnen oder Monstern puren Schaden zu und wirst geheilt. Umgebungsobjekte können ebenfalls konsumiert werden. Nachdem sie dich geheilt haben, werden sie zerstört."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962175?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Mecha Superman: Konsumieren",
+        "gameId": "1207962175",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C2.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C5.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C3.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130023C4.jpg"
+        },
+        "description": "„Mecha Superman: Konsumieren“ stellt basierend auf deinen Bonus-LP deine LP wiederher.<br><br>Du fügst gegnerischen Drohnen oder Monstern puren Schaden zu und wirst geheilt. Umgebungsobjekte können ebenfalls konsumiert werden. Nachdem sie dich geheilt haben, werden sie zerstört."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961708?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Mecha Wonder Woman: Falle",
+        "gameId": "1207961708",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002061.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002064.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002062.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/trap/0x13002063.jpg"
+        },
+        "description": "„Mecha Wonder Woman: Falle“ ist schneller scharf.<br><br>Du bekommst mehrere Ladungen, mit denen du Fallen auslegen kannst. Es dauert einige Sekunden nach der Platzierung, bis eine Falle für eine kurze Zeit scharf ist. Gefangene gegnerische Champions sind für einige Sekunden „bewegungsunfähig“ und werden „enttarnt“. Du kannst nur eine bestimme Anzahl Fallen gleichzeitig auf der Map platzieren. Deine Ladungen erneuern sich über Zeit oder wenn du zur Basis zurückkehrst."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960994?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Meteoriteneinschlag",
+        "gameId": "1207960994",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Lasse einen Meteoriten auf der Erde einschlagen und teile an seinem Zielort Power-Schaden aus. Der Meteorit bleibt einige Sekunden lang als kleines Umgebungsobjekt liegen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961665?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Nightmare Batman: Konsumieren",
+        "gameId": "1207961665",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CA.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CD.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CB.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/consume/0x130020CC.jpg"
+        },
+        "description": "„Nightmare Batman: Konsumieren“ stellt die LP deines Champion wiederher.<br><br>Du fügst gegnerischen Drohnen oder Monstern puren Schaden zu und wirst geheilt. Umgebungsobjekte können ebenfalls konsumiert werden. Nachdem sie dich geheilt haben, werden sie zerstört."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962946?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Nightmare Robin: Röntgenblick",
+        "gameId": "1207962946",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270B.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270E.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270C.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/xray_vision/0x1300270D.jpg"
+        },
+        "description": "„Nightmare Robin: Röntgenblick“ verschafft dir Bonus-Schaden, solange die gestohlene Superkraft aktiv ist.<br><br>Für einige Sekunden hat dein Champion ein erweitertes Sichtfeld, kann durch Wände hindurchblicken und „getarnte“ Gegner oder Gegner in Tarnfeldern sehen. Dein Champion bekommt außerdem Bonus-Schaden."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962255?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Nightmare Superman: Teleport",
+        "gameId": "1207962255",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300248D.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300248E.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x1300248F.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/teleport/0x13002490.jpg"
+        },
+        "description": "„Nightmare Superman: Teleport“ verschafft deinem Champion nach dem erfolgreichen Teleportieren einige Sekunden lang mehr Power-Schaden.<br><br>Wähle eine Überwachungskamera, Drohne, einen Turm oder nicht umkämpften Kontrollpunkt deines Teams aus. Nach kurzer Kanalisierung wirst du unmittelbar zum anvisierten Ziel teleportiert. Wenn du dich zu einem Turm oder Kontrollpunkt teleportierst, verkürzt sich die Abklingzeit. Die Kanalisierung wird unterbrochen, wenn dein Champion sich bewegt oder Schaden erleidet."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961670?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Poison Ivy: Heilungswelle",
+        "gameId": "1207961670",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B6.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B9.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B7.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/healing_wave/0x130020B8.jpg"
+        },
+        "description": "„Poison Ivy: Heilungswelle“ verschafft dir und deinen Teammitgliedern in der Nähe zusätzlichen Angriffsschaden und Power-Schaden.<br><br>Heile dich selbst und deine Teammitglieder in der Nähe. Weitere Heilungswellen innerhalb der nächsten Sekunden haben eine reduzierte Heilung. Du und deine Teammitglieder erhalten außerdem einige Sekunden lang zusätzlichen Angriffsschaden und Power-Schaden."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961477?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Psychischer Angriff",
+        "gameId": "1207961477",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Getroffene gegnerische Champions verlieren einige Sekunden lang Lauftempo."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961718?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Robin: Überwachungskamera",
+        "gameId": "1207961718",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002075.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002078.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002076.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/surveillance_camera/0x13002077.jpg"
+        },
+        "description": "„Robin: Überwachungskamera“ hat zwei zusätzliche Ladungen.<br><br>Du bekommst mehrere Ladungen, mit denen du getarnte Überwachungskameras platzieren kannst, die in ihrer Umgebung für einige Sekunden dein Sichtfeld erweitern. Nur eine bestimmte Anzahl Überwachungskameras können gleichzeitig auf der Map platziert werden. Wenn du zur Basis zurückkehrst, erneuern sich die Ladungen automatisch."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960905?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Röntgenblick",
+        "gameId": "1207960905",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Für kurze Zeit hat dein Champion ein erweitertes Sichtfeld, kann getarnte Gegner oder Gegner in Tarnfeldern sehen und durch Wände hindurchblicken."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961614?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Shazam: Unverwundbarkeit",
+        "gameId": "1207961614",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AC.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AF.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AD.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130020AE.jpg"
+        },
+        "description": "„Shazam: Unverwundbarkeit“ stellt LP wiederher, solange der Schild aktiv ist.<br><br>Du bekommst einen Schild, der für einige Sekunden Schaden abblockt. Solange der Schild aktiv ist, wirst du geheilt."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962610?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Sinestro: Psychischer Angriff",
+        "gameId": "1207962610",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023C7.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023CA.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023C8.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130023C9.jpg"
+        },
+        "description": "„Sinestro: Psychischer Angriff“ belegt Gegner mit dem Effekt „Verlangsamt“ und reduziert ihre Power-Abwehr.<br><br>Der anvisierte gegnerische Champion verliert ein paar Sekunden lang Lauftempo und Power-Abwehr."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962094?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Star Sapphire: Psychischer Angriff",
+        "gameId": "1207962094",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209D.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x130020A0.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209E.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209F.jpg"
+        },
+        "description": "„Star Sapphire: Psychischer Angriff“ belegt Gegner mit dem Effekt „Verlangsamt“ und reduziert ihre Heilung.<br><br>Der anvisierte gegnerische Champion verliert ein paar Sekunden lang Lauftempo und seine Heilung reduziert sich."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962924?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Supergirl: Unverwundbarkeit",
+        "gameId": "1207962924",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F5.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F8.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F6.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/invulnerability/0x130028F7.jpg"
+        },
+        "description": "„Supergirl: Unverwundbarkeit“ verschafft dir zusätzlichen <font color='#ff9900'>Angriffsschaden</font>, solange der Schild aktiv ist.<br><br>Du bekommst einen Schild, der für einige Sekunden Schaden abblockt. Solange der Schild aktiv ist, teilst du zusätzlichen <font color='#ff9900'>Angriffsschaden</font> aus."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960523?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Superkraft",
+        "gameId": "1207960523",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Dein Champion kann Umgebungsobjekte aufheben und gegen Ziele schleudern.<br><br><b>Großes Umgebungsobjekt:</b> Du wirfst ein Objekt und Gegner im Zielbereich erleiden Angriffsschaden und werden „verlangsamt“.<br><b>Kleines Umgebungsobjekt:</b> Du wirfst ein Objekt und fügst dem ersten Ziel in der Wurfrichtung Angriffsschaden zu und „wirbelst“ es „hoch“."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207962171?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Superman: Superkraft",
+        "gameId": "1207962171",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D3.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D4.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D5.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x130023D6.jpg"
+        },
+        "description": "„Superman: Superkraft“ verschafft deinem Champion Angriffsschaden, während die gestohlene Superkraft in der Abklingzeit ist.<br><br><b>Großes Umgebungsobjekt:</b> Du wirfst ein Objekt und Gegner im Zielbereich erleiden Angriffsschaden und werden „verlangsamt“.<br><b>Kleines Umgebungsobjekt:</b> Du wirfst ein Objekt und fügst dem ersten Ziel in der Wurfrichtung Angriffsschaden zu und „wirbelst“ es „hoch“."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961609?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Teleport",
+        "gameId": "1207961609",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Wähle eine Überwachungskamera, Drohne, einen Turm oder nicht umkämpften Kontrollpunkt deines Teams aus. Nach kurzer Kanalisierung wirst du unmittelbar zum anvisierten Ziel teleportiert. Wenn du dich zu einem Turm oder Kontrollpunkt teleportierst, verkürzt sich die Abklingzeit. Die Kanalisierung wird unterbrochen, wenn dein Champion sich bewegt oder Schaden erleidet."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960873?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Turbogeschwindigkeit",
+        "gameId": "1207960873",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Du bekommst mehr Lauftempo und kannst dich einige Sekunden lang durch gegnerische Champions hindurchbewegen."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961472?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Unverwundbarkeit",
+        "gameId": "1207961472",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Du bekommst einen Schild, der für einige Sekunden Schaden abblockt."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961629?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Wonder Woman: Superkraft",
+        "gameId": "1207961629",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x1300207F.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002082.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002080.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002081.jpg"
+        },
+        "description": "„Wonder Woman: Superkraft“ lässt deinen Champion Umgebungsobjekte aufheben und mit größerer Reichweite gegen Ziele schleudern.<br><br><b>Großes Umgebungsobjekt:</b> Du wirfst ein Objekt mit größerer Reichweite (+200) und Gegner im Zielbereich erleiden Angriffsschaden und werden „verlangsamt“.<br><b>Kleines Umgebungsobjekt:</b> Du wirfst ein Objekt mit größerer Reichweite (+200) und fügst dem ersten Ziel in der Wurfrichtung Angriffsschaden zu und „wirbelst“ es „hoch“."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207961682?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Zatanna: Psychischer Angriff",
+        "gameId": "1207961682",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x13002098.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209B.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x13002099.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/psychic_assault/0x1300209A.jpg"
+        },
+        "description": "„Zatanna: Psychischer Angriff“ belegt Gegner mit dem Effekt „Verlangsamt“, der stärker ist und länger andauert.<br><br>Der anvisierte gegnerische Champion verliert ein paar Sekunden lang Lauftempo."
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/stolenpowers/1207960867?shard=1&lang=de"
+          }
+        },
+        "lang": "de",
+        "name": "Überwachungskamera",
+        "gameId": "1207960867",
+        "shard": 1,
+        "images": {
+          "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002004.jpg",
+          "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002007.jpg",
+          "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002005.jpg",
+          "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/template/0x13002006.jpg"
+        },
+        "description": "Du bekommst mehrere Ladungen, mit denen du getarnte Überwachungskameras platzieren kannst, die in ihrer Umgebung für einige Sekunden dein Sichtfeld erweitern. Nur eine bestimmte Anzahl Überwachungskameras können gleichzeitig auf der Map platziert werden. Wenn du zur Basis zurückkehrst, erneuern sich die Ladungen automatisch."
+      }
+    ]
+  },
+  "shard": 1,
+  "lang": "de",
+  "count": 46
+}

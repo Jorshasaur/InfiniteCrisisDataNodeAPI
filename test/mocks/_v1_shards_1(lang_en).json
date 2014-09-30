@@ -1,0 +1,13 @@
+{
+  "_links": {
+    "self": {
+      "href": "/v1/shards/1?lang=en"
+    }
+  },
+  "shardId": 1,
+  "shardName": "SMALLVILLE",
+  "online": true,
+  "publicShard": true,
+  "alertMessage": "Hail Protectors! On Wednesday, July 30th, the European and Russian shards will be unavailable from 8:00 AM to 3:00 PM Eastern (-4 GMT) as we conduct maintenance. The North American server will remain up and online as this work is completed, but our website logins and referral will be unavailable.",
+  "alertEnabled": true
+}

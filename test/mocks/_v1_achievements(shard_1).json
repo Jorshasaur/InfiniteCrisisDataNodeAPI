@@ -1,0 +1,624 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/achievements?shard=1&lang=en"
+    }
+  },
+  "_embedded": {
+    "achievements": [
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744648?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744648",
+        "key": "CompleteFirstTutorialMission",
+        "name": "Complete Tutorial 1",
+        "description": "Play through Tutorial 1",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CC8.png",
+        "category": {
+          "description": "Training",
+          "key": "training",
+          "name": "Training"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 1,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 1
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744853?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744853",
+        "key": "CompleteSecondTutorialMission",
+        "name": "Complete Tutorial 2",
+        "description": "Play through Tutorial 2",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CC8.png",
+        "category": {
+          "description": "Training",
+          "key": "training",
+          "name": "Training"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 2,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 1
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744985?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744985",
+        "key": "PlayOneLaneMapMatch",
+        "name": "Complete Tutorial 3",
+        "description": "Play through Tutorial 3",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CC8.png",
+        "category": {
+          "description": "Training",
+          "key": "training",
+          "name": "Training"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 5,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 1
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744987?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744987",
+        "key": "PlayGothamHeightsVsAIMatch",
+        "name": "Play Gotham Divided vs AI",
+        "description": "Play a Gotham Divided vs AI Match",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CC8.png",
+        "category": {
+          "description": "Training",
+          "key": "training",
+          "name": "Training"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 6,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 1
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744988?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744988",
+        "key": "PlayGothamDividedVsAIMatch",
+        "name": "Play Gotham Heights vs AI",
+        "description": "Play a Gotham Heights vs AI Match",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CC8.png",
+        "category": {
+          "description": "Training",
+          "key": "training",
+          "name": "Training"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 7,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 1
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744986?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744986",
+        "key": "ReachProtectorLevel5",
+        "name": "Reach Protector Level 5",
+        "description": "Play matches to reach Protector Level 5",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002D8B.png",
+        "category": {
+          "description": "Training",
+          "key": "training",
+          "name": "Training"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 8,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744957?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744957",
+        "key": "Play10MatchesPerWeek",
+        "name": "Play 10 Matches Per Week",
+        "description": "Play 10 matchmaking matches per week.",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002F03.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 3,
+        "orderIndex": 9,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 10
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744305?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744305",
+        "key": "InitiateoftheConstruct",
+        "name": "Initiate of the Construct",
+        "description": "Reach Protector Level 10",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+        "category": {
+          "description": "Protector Level",
+          "key": "protectorlevel",
+          "name": "Protector Level"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 109,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 10
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744293?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744293",
+        "key": "SoldieroftheConstruct",
+        "name": "Soldier of the Construct",
+        "description": "Reach Protector Level 20",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002413.png",
+        "category": {
+          "description": "Protector Level",
+          "key": "protectorlevel",
+          "name": "Protector Level"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 110,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 20
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744299?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744299",
+        "key": "LieutenantoftheConstruct",
+        "name": "Lieutenant of the Construct",
+        "description": "Reach Protector Level 30",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241C.png",
+        "category": {
+          "description": "Protector Level",
+          "key": "protectorlevel",
+          "name": "Protector Level"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 111,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 30
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744303?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744303",
+        "key": "ChampionoftheConstruct",
+        "name": "Champion of the Construct",
+        "description": "Reach Protector Level 40",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002421.png",
+        "category": {
+          "description": "Protector Level",
+          "key": "protectorlevel",
+          "name": "Protector Level"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 112,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 40
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744292?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744292",
+        "key": "OnewiththeConstruct",
+        "name": "One with the Construct",
+        "description": "Reach Protector Level 50",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241A.png",
+        "category": {
+          "description": "Protector Level",
+          "key": "protectorlevel",
+          "name": "Protector Level"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 113,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 50
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744625?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744625",
+        "key": "Well Rounded",
+        "name": "Well Rounded",
+        "description": "5 to 5",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002419.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 114,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744623?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744623",
+        "key": "Counterpicker",
+        "name": "Counterpicker",
+        "description": "20 to 5",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300240E.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 115,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 20
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744620?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744620",
+        "key": "10onGothamHeights",
+        "name": "10 on Gotham Heights",
+        "description": "Play 10 on GH",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002423.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 116,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 10
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744619?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744619",
+        "key": "10onCoastCity",
+        "name": "10 on Coast City",
+        "description": "Play 10 on CC",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002425.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 117,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 10
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744621?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744621",
+        "key": "10onGothamDivided",
+        "name": "10 on Gotham Divided",
+        "description": "Play 10 on GD",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002424.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 118,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 10
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744622?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744622",
+        "key": "Win100",
+        "name": "Win 100",
+        "description": "Win 100",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300240D.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 119,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 100
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744624?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744624",
+        "key": "Win1000",
+        "name": "Win 1000",
+        "description": "Win 1000",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300240C.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 120,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 1000
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744626?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744626",
+        "key": "TheHalfCycle",
+        "name": "The Half-Cycle",
+        "description": "5 Cycle",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CF2.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 121,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 5
+          }
+        ]
+      },
+      {
+        "_links": {
+          "self": {
+            "href": "/v1/achievements/1073744627?shard=1&lang=en"
+          }
+        },
+        "shardId": 1,
+        "lang": "en",
+        "gameId": "1073744627",
+        "key": "TheCycle",
+        "name": "The Cycle",
+        "description": "10 Cycle",
+        "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x13002CF3.png",
+        "category": {
+          "description": "General",
+          "key": "general",
+          "name": "General"
+        },
+        "visibility": 3,
+        "repeatType": 1,
+        "orderIndex": 122,
+        "objectiveDetails": [
+          {
+            "orderIndex": 1,
+            "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/achievement_protector/0x1300241D.png",
+            "targetValue": 10
+          }
+        ]
+      }
+    ]
+  },
+  "shard": 1,
+  "lang": "en",
+  "count": 21
+}

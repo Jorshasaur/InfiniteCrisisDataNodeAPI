@@ -1,0 +1,14 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/shards/21?lang=fr"
+    }
+  },
+  "shardId": 21,
+  "shardName": "GOTHAM",
+  "online": true,
+  "publicShard": true,
+  "alertMessage": "Salutations, Protecteurs ! Les serveurs européen et russe seront indisponibles le mercredi 30 juillet de 14 h à 21 h (heure française) pour cause de maintenance.",
+  "alertEnabled": true
+}

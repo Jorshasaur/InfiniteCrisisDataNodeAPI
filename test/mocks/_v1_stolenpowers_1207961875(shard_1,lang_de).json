@@ -1,0 +1,19 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/stolenpowers/1207961875?shard=1&lang=de"
+    }
+  },
+  "lang": "de",
+  "name": "Aquaman: Superkraft",
+  "gameId": "1207961875",
+  "shard": 1,
+  "images": {
+    "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002084.jpg",
+    "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002087.jpg",
+    "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002085.jpg",
+    "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/secondary_skills/super_strength/0x13002086.jpg"
+  },
+  "description": "„Aquaman: Superkraft“ verschafft deinem Champion nach dem Werfen eines Umgebungsobjekts mehr Lauftempo.<br><br><b>Großes Umgebungsobjekt:</b> Du wirfst ein Objekt und Gegner im Zielbereich erleiden Angriffsschaden und werden „verlangsamt“. Dein Champion bekommt für einige Sekunden mehr Lauftempo.<br><b>Kleines Umgebungsobjekt:</b> Du wirfst ein Objekt und fügst dem ersten Ziel in der Wurfrichtung Angriffsschaden zu und „wirbelst“ es „hoch“. Dein Champion bekommt für einige Sekunden mehr Lauftempo."
+}

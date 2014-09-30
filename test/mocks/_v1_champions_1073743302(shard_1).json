@@ -1,0 +1,82 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/champions/1073743302?shard=21&lang=en"
+    }
+  },
+  "lang": "en",
+  "gameId": "1073743302",
+  "shard": 21,
+  "description": "The son of a lighthouse keeper, and the Atlantean Queen, Arthur Curry initially enjoyed a quiet, peaceful life with his father on the surface. This all changed when the media learned of the existence of an 'Aquaman' from Atlantis. Their reports drew the attention of Black Manta, a treasure hunter whose obsession with Atlantean treasures led to the death of Arthur's father. Escaping the surface world, Arthur took his rightful place as King of Atlantis. After a few years, Arthur tired of the court's intrigues and returned to the surface with his love, Mera. He now guards the ocean shores, protecting both worlds but feeling at home in neither.<br><br>Aquaman is extremely strong and is quite resilient in combat. He wields the Trident of the Atlantean King to great effect, he can breathe underwater, and can communicate telepathically with most forms of aquatic life.",
+  "characterName": "Aquaman",
+  "playStyle": "Aquaman harasses his foes with the Trident of the King from range, and then closes to fight when he is ready. Might of Atlantis changes based on his last used skill, allowing many different skill combinations.",
+  "alignment": "Hero",
+  "multiverse": "Prime",
+  "subtitle": "Lord of Atlantis",
+  "attackBar": 80,
+  "healthBar": 40,
+  "powerBar": 0,
+  "difficultyBar": 100,
+  "images": {
+    "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DF8.jpg",
+    "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DF9.jpg",
+    "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFC.jpg",
+    "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFA.jpg",
+    "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/portraits/consolevitals/aquaman/0x13001DFB.jpg"
+  },
+  "roles": [
+    {
+      "roleName": "Attack Damage Champion",
+      "shortDesc": "This Champion increases in strength and effectiveness most as you acquire Attack Damage.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000CC7.png"
+    },
+    {
+      "roleName": "Melee",
+      "shortDesc": "This Champion's Basic Attack is melee.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C69.png"
+    },
+    {
+      "roleName": "Bruiser",
+      "shortDesc": "A Bruiser gets into the thick of fights, trying to destroy their target with close ranged attacks and powers.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/roles/0x13000C6A.png"
+    }
+  ],
+  "skills": [
+    {
+      "skillName": "Trident of the King",
+      "shortDesc": "Aquaman throws out his trident, dealing Attack Damage (increasing with travel distance) to the first enemy it hits. The target is also Revealed and marked.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001979.png",
+      "slotName": "q",
+      "slotId": 1
+    },
+    {
+      "skillName": "Stagger",
+      "shortDesc": "Aquaman swipes his opponent's feet. He deals Attack Damage and Knocks Down the target for a short time.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001975.png",
+      "slotName": "w",
+      "slotId": 2
+    },
+    {
+      "skillName": "Undertow",
+      "shortDesc": "Aquaman rushes forward, dealing Attack Damage to all enemies. If at least one enemy is hit, Aquaman may use Undertow a second time within a short window.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001978.png",
+      "slotName": "e",
+      "slotId": 3
+    },
+    {
+      "skillName": "Might of Atlantis",
+      "shortDesc": "Might of Atlantis becomes a unique follow-up skill for a few seconds when Aquaman deals damage with another skill.<br><br><b>Trident of the King:</b><br>Dash to the marked target and deal  Attack Damage.<br><br><b>Stagger:</b><br>Deal Attack Damage, and a percent of the target's Max Health as additional Attack Damage.<br><br><b>Undertow:</b><br>Rush in target direction. Deal Attack Damage to the first Champion hit, and throw them behind Aquaman.<br>",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001977.png",
+      "slotName": "r",
+      "slotId": 4
+    },
+    {
+      "skillName": "Rising Tide",
+      "shortDesc": "When Aquaman uses a skill, he gains Rising Tide for a few seconds. His next Basic Attack consumes Rising Tide to deal Attack Damage to his target, and restore health to himself.",
+      "icon": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/skills/aquaman/0x13001976.png",
+      "slotName": "Passive",
+      "slotId": 5
+    }
+  ]
+}

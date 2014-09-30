@@ -1,0 +1,162 @@
+
+{
+  "_links": {
+    "self": {
+      "href": "/v1/artifacts/1073742988?shard=21&lang=de"
+    }
+  },
+  "artifactId": 1073742988,
+  "shardId": 21,
+  "lang": "de",
+  "name": "Lobos Kette",
+  "type": "attack",
+  "lore": "Dieses „Schmuckstück“ ist für den <i>Main Man</i> allererste Wahl. Bedenkt man, dass Lobo die Personifizierung von Mord und Totschlag ist, kann man sich kaum einen besseren Werbeträger für diesen an die Kette gelegten Fleischerhaken vorstellen.",
+  "key": "lobos-chain",
+  "levels": [
+    {
+      "gameId": 1073742988,
+      "level": 1,
+      "description": "+75 LP +5 Angriffsschaden ",
+      "totalCost": 500,
+      "upgradeCost": 500,
+      "sellbackCost": 450,
+      "images": {
+        "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156D.jpg",
+        "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156D.jpg",
+        "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156D.jpg",
+        "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156D.jpg",
+        "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156D.jpg"
+      },
+      "attributes": [
+        {
+          "key": "MaxHealth",
+          "name": "LP",
+          "value": 75,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        },
+        {
+          "key": "AttackDamage",
+          "name": "Angriffsschaden",
+          "value": 5,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        }
+      ],
+      "passives": [],
+      "actives": []
+    },
+    {
+      "gameId": 1073743095,
+      "level": 2,
+      "description": "+175 LP +15 Angriffsschaden ",
+      "totalCost": 1250,
+      "upgradeCost": 750,
+      "sellbackCost": 940,
+      "images": {
+        "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156C.jpg",
+        "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156C.jpg",
+        "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156C.jpg",
+        "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156C.jpg",
+        "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156C.jpg"
+      },
+      "attributes": [
+        {
+          "key": "MaxHealth",
+          "name": "LP",
+          "value": 175,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        },
+        {
+          "key": "AttackDamage",
+          "name": "Angriffsschaden",
+          "value": 15,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        }
+      ],
+      "passives": [],
+      "actives": []
+    },
+    {
+      "gameId": 1073743115,
+      "level": 3,
+      "description": "+250 LP +25 Angriffsschaden ",
+      "totalCost": 2000,
+      "upgradeCost": 750,
+      "sellbackCost": 1500,
+      "images": {
+        "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156B.jpg",
+        "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156B.jpg",
+        "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156B.jpg",
+        "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156B.jpg",
+        "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156B.jpg"
+      },
+      "attributes": [
+        {
+          "key": "MaxHealth",
+          "name": "LP",
+          "value": 250,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        },
+        {
+          "key": "AttackDamage",
+          "name": "Angriffsschaden",
+          "value": 25,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        }
+      ],
+      "passives": [],
+      "actives": []
+    },
+    {
+      "gameId": 1073743010,
+      "level": 4,
+      "description": "+300 LP +30 Angriffsschaden Angriffs-Hemmer Basis-Angriffe verringern das Lauftempo des Ziels um 30 %. Effekt verfällt innerhalb von 2 Sek. (20 % Verlangsamung durch Basis-Angriffe mit Fernwaffen). ",
+      "totalCost": 3000,
+      "upgradeCost": 1000,
+      "sellbackCost": 2250,
+      "images": {
+        "background": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156A.jpg",
+        "tiny": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156A.jpg",
+        "small": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156A.jpg",
+        "medium": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156A.jpg",
+        "large": "//images.ic.akamai.turbine.com/hendrix_qa/ui/icons/artifacts/0x1300156A.jpg"
+      },
+      "attributes": [
+        {
+          "key": "MaxHealth",
+          "name": "LP",
+          "value": 300,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        },
+        {
+          "key": "AttackDamage",
+          "name": "Angriffsschaden",
+          "value": 30,
+          "maxValue": 0,
+          "type": "Flat",
+          "isPercentage": false
+        }
+      ],
+      "passives": [
+        {
+          "name": "Angriffs-Hemmer",
+          "description": "Basis-Angriffe verringern das Lauftempo des Ziels um 30 %. Effekt verfällt innerhalb von 2 Sek. (20 % Verlangsamung durch Basis-Angriffe mit Fernwaffen)."
+        }
+      ],
+      "actives": []
+    }
+  ]
+}
