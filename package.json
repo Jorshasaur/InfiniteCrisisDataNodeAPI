@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/turbine-web/InfiniteCrisisDataNodeAPI.git"
   },
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "request": "^2.44.0",
     "lodash": "^2.4.1"
