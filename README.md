@@ -1,6 +1,8 @@
 Infinite Crisis Data API
 ===
 
+[![Build Status](http://travis-ci.org/turbine-web/InfiniteCrisisDataNodeAPI.svg)](http://github.com/turbine-web/InfiniteCrisisDataNodeAPI)
+
 This is a NodeJS client wrapper for the Infinite Crisis data API. If you are interested in contributing back to this project, feel free to read the Contributing documentation below.
 
 If you're interested in seeing what we do with the service, please check out [our game information site](http://game.infinitecrisis.com/en/game/champions).
